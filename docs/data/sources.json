@@ -9,11 +9,11 @@
    "strategies": [
     [
      "engage",
-     "https://umt.campuslabs.com/engage"
+     "https://grizhub.umt.edu/engage"
     ],
     [
      "engage",
-     "https://grizhub.umt.edu/engage"
+     "https://umt.campuslabs.com/engage"
     ]
    ]
   },
@@ -31,7 +31,8 @@
      "discover",
      "https://www.umt.edu/events/"
     ]
-   ]
+   ],
+   "enabled": false
   },
   {
    "id": "griz-athletics",
@@ -43,14 +44,6 @@
     [
      "ical",
      "https://gogriz.com/calendar.ashx/calendar.ics"
-    ],
-    [
-     "jsonld",
-     "https://gogriz.com/calendar"
-    ],
-    [
-     "discover",
-     "https://gogriz.com/calendar"
     ]
    ],
    "exclude": "\\b(at|@) (?!montana)|away"
@@ -63,12 +56,10 @@
    "site": "https://www.umt.edu/dennison-theatre/events/calendar.php",
    "strategies": [
     [
-     "jsonld",
-     "https://www.umt.edu/dennison-theatre/events/calendar.php"
-    ],
-    [
-     "discover",
-     "https://www.umt.edu/dennison-theatre/events/calendar.php"
+     "crawl",
+     "https://www.umt.edu/dennison-theatre/events/calendar.php",
+     "dt_calendar\\.php|/events/",
+     "20"
     ]
    ]
   },
@@ -79,17 +70,13 @@
    "site": "https://destinationmissoula.org/events",
    "strategies": [
     [
-     "jsonld",
-     "https://destinationmissoula.org/events"
-    ],
-    [
      "crawl",
      "https://destinationmissoula.org/events",
-     "/event/\\d+",
+     "^/event/\\d+$",
      "45"
     ],
     [
-     "discover",
+     "jsonld",
      "https://destinationmissoula.org/events"
     ]
    ]
@@ -105,11 +92,11 @@
      "https://www.missouladowntown.com"
     ],
     [
-     "jsonld",
-     "https://www.missouladowntown.com/events/"
+     "ical",
+     "https://www.missouladowntown.com/?post_type=tribe_events&ical=1&eventDisplay=list"
     ],
     [
-     "discover",
+     "jsonld",
      "https://www.missouladowntown.com/events/"
     ]
    ]
@@ -121,15 +108,7 @@
    "site": "https://www.missoulapubliclibrary.org/home/programs/program-calendar",
    "strategies": [
     [
-     "ical",
-     "https://www.missoulapubliclibrary.org/events.ics"
-    ],
-    [
-     "ical",
-     "https://www.missoulapubliclibrary.org/program-calendar/?ical=1"
-    ],
-    [
-     "discover",
+     "jsonld",
      "https://www.missoulapubliclibrary.org/home/programs/program-calendar"
     ]
    ]
@@ -142,13 +121,14 @@
    "site": "https://logjampresents.com/",
    "strategies": [
     [
-     "jsonld",
-     "https://logjampresents.com/",
-     "https://logjampresents.com/events/"
+     "crawl",
+     "https://logjampresents.com/events/",
+     "logjampresents\\.com/event/|/events/[a-z0-9-]+/$",
+     "40"
     ],
     [
-     "discover",
-     "https://logjampresents.com/"
+     "jsonld",
+     "https://logjampresents.com/events/"
     ]
    ]
   },
