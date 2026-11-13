@@ -113,7 +113,8 @@
      "jsonld",
      "https://www.missoulapubliclibrary.org/home/programs/program-calendar"
     ]
-   ]
+   ],
+   "bigTitles": "a^"
   },
   {
    "id": "logjam",
