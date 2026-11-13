@@ -7,7 +7,7 @@ X-WR-TIMEZONE:America/Denver
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:3b009c42b9d5@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20270207
 SUMMARY:Candlelight: Coldplay & Imagine Dragons
@@ -21,53 +21,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2c2b61cfd260@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART:20261113T173000Z
-DTEND:20261113T193000Z
-SUMMARY:University of Montana Soccer vs (3) Northern Arizona vs. (2) Northern Colorado
-LOCATION:Missoula\, Missoula
-DESCRIPTION:University of Montana Soccer vs (3) Northern Arizona vs. (2) Northern Colorado TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\nhttps://admin.gogriz.com/calendar.aspx?game_id=6603&amp\;sport_id=14
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6603&amp;sport_id=14
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Soccer vs (3) Northern Arizona vs. (2) Northern Colorado
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c7ca76a67afb@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART:20261113T190000Z
-DTEND:20261113T220000Z
-SUMMARY:University of Montana Men's Cross Country vs NCAA Mountain Regional
-LOCATION:Albuquerque\, UM Campus
-DESCRIPTION:University of Montana Men's Cross Country vs NCAA Mountain Regional\nhttps://admin.gogriz.com/calendar.aspx?game_id=6665&amp\;sport_id=4
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6665&amp;sport_id=4
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Men's Cross Country vs NCAA Mountain Regional
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bc10049f013a@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART:20261113T203000Z
-DTEND:20261113T223000Z
-SUMMARY:University of Montana Soccer vs (4) Idaho vs. (1) Weber State
-LOCATION:Missoula\, Missoula
-DESCRIPTION:University of Montana Soccer vs (4) Idaho vs. (1) Weber State TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\nhttps://admin.gogriz.com/calendar.aspx?game_id=6604&amp\;sport_id=14
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6604&amp;sport_id=14
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Soccer vs (4) Idaho vs. (1) Weber State
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:cf256f7e8b4c@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261114T020000Z
 DTEND:20261114T033000Z
 SUMMARY:Can the Cats with discounted Lady Griz tickets Nov 13!
@@ -82,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9843abc1dc2d@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261114T020000Z
 DTEND:20261114T040000Z
 SUMMARY:University of Montana Women's Basketball vs Houston
@@ -97,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1f39b02ff7d0@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261114T023000Z
 DTEND:20261114T050000Z
 SUMMARY:Griz Hockey vs. Boise State (Veterans Day Game)
@@ -112,7 +67,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f41f7eff66b4@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261114T023000Z
 DTEND:20261114T033000Z
 SUMMARY:Symphonic Wind Ensemble and Popular Music Ensemble
@@ -127,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:db75d2aa98fa@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
 SUMMARY:The Last Revel @ The Wilma
@@ -142,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0255b5a98b@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Griz football vs. Idaho State 11/14
@@ -157,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c489baeb25f8@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Idaho State Bengals at Montana Grizzlies Football at Washington-Grizzly Stadium
@@ -172,7 +127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:11cdccb30188@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:MCAT Tour & Training
@@ -187,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fd60a681b6f1@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Montana Grizzlies Football vs. Idaho State Bengals Football
@@ -202,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b5eb77115c63@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Young Kids Dance Party
@@ -217,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e3e9502de337@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261115T020000Z
 DTEND:20261115T033000Z
 SUMMARY:Game Day Food Drive for Can the Cats!
@@ -231,23 +186,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5d16c519afc2@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART:20261115T023000Z
-DTEND:20261115T050000Z
-SUMMARY:Griz Hockey vs. Boise State (Can the Cats Game!)
-LOCATION:Glacier Ice Rink\, UM Campus
-DESCRIPTION:Second game of the weekend vs. Boise State. Game Start: 7:30 PM Ticket Link: https://www.grizhockey.com/game-14-boise-state-2 Bring a canned food or nonperishable food item to support Can the Cats (Nov 7-Nov 21) and get entered to win a Griz Hockey jersey! Raffle tickets are available towards the…\nhttps://grizhub.umt.edu/engage/event/12511997
-URL:https://grizhub.umt.edu/engage/event/12511997
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Griz Hockey vs. Boise State (Can the Cats Game!)
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:e1aed250bee4@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
 SUMMARY:Railroad Earth @ The Wilma
@@ -261,8 +201,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ffdae71d52c8@wenatchee-activities
+DTSTAMP:20261113T184800Z
+DTSTART:20261115T033000Z
+DTEND:20261115T063000Z
+SUMMARY:Can the Cats at the Idaho State Football Game
+LOCATION:Washington-Grizzly Stadium\, UM Campus
+DESCRIPTION:Heading to the Idaho State Griz game on November 14 at 8:30 pm? Food collection spots will be in front of the Adams Center at the North\, East\, and South entrances. Bring your cans and give back! Join the Can the Cats food drive by bringing nonperishable food items or making a monetary donation at…\nhttps://grizhub.umt.edu/engage/event/12946219
+URL:https://grizhub.umt.edu/engage/event/12946219
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Can the Cats at the Idaho State Football Game
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:a8847cb8a549@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261115T033000Z
 DTEND:20261115T063000Z
 SUMMARY:University of Montana Football vs Idaho State - Senior Day
@@ -277,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7ee97e5eb6@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:MISSOULA\, MT @ Big Sky Brewing ♦ STAND-UP comedy ♦ SUNDAY ♦ 15 November @ 7pm (local time)
@@ -291,23 +246,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a5ff3c8558e1@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART:20261115T200000Z
-DTEND:20261115T220000Z
-SUMMARY:University of Montana Soccer vs Big Sky Conference Championship
-LOCATION:Missoula\, Missoula
-DESCRIPTION:University of Montana Soccer vs Big Sky Conference Championship TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\nhttps://admin.gogriz.com/calendar.aspx?game_id=6605&amp\;sport_id=14
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6605&amp;sport_id=14
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Soccer vs Big Sky Conference Championship
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:be20e56998e4@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Art with a Purpose
@@ -322,7 +262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f6d7f7166b2a@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261117T020000Z
 DTEND:20261117T033000Z
 SUMMARY:Can the Cats with Griz Volleyball - Nov 16! 🏐
@@ -337,7 +277,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9851913dff2d@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261117T020000Z
 DTEND:20261117T040000Z
 SUMMARY:University of Montana Volleyball vs Northern Colorado
@@ -352,7 +292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1d17e32d1de4@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Infant to 3-Year-Old Playgroup
@@ -367,7 +307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eb2a0d250ebf@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Learn the Basics of Audio Recording
@@ -382,7 +322,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5bb7404b65ea@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:3rd Wednesday Book Group
@@ -397,7 +337,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6f42368e300a@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Middle School Writers’ Group
@@ -412,7 +352,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:312cb7ee44d1@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Preschool STEM Building
@@ -427,7 +367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7712310b8c2c@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Stories and Games for Diverse Abilities
@@ -442,7 +382,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:46289d41afe9@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Exploring Music Making with Garageband Software
@@ -457,7 +397,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c183293b692c@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Missoula Well-Being Concert
@@ -472,7 +412,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9f212ea51c9e@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Teen Library Community
@@ -487,7 +427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:90921992e1ed@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261120T020000Z
 DTEND:20261120T040000Z
 SUMMARY:Theatre Night w/the DHC
@@ -502,7 +442,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8e99f332ad99@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Funksgiving 12 at Wilma Theatre Missoula
@@ -517,7 +457,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:94362653b2cc@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Funksgiving 12 ft. Special Guest Revel Day w/ Desperate Electric
@@ -532,7 +472,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:230cc853e984@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Watercolor Painting Collaborative @ MPL
@@ -547,7 +487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f46480263ad6@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Yarns @ MPL
@@ -562,7 +502,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f647726e8e4b@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Young Adult Writers’ Group
@@ -576,23 +516,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8f26b92595fb@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART:20261121T020000Z
-DTEND:20261121T040000Z
-SUMMARY:University of Montana Volleyball at Montana State
-LOCATION:Bozeman\, UM Campus
-DESCRIPTION:University of Montana Volleyball at Montana State Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference\nhttps://admin.gogriz.com/calendar.aspx?game_id=6640&amp\;sport_id=17
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6640&amp;sport_id=17
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Volleyball at Montana State
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:fca578693fb2@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261121T023000Z
 DTEND:20261121T050000Z
 SUMMARY:Griz Hockey vs. Montana Tech (Colin Snodgrass Scholarship Game)
@@ -607,7 +532,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4d85c0048186@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Cat Griz (MSU vs UM) Game Day at the Library
@@ -622,7 +547,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:345aa07db476@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:MCAT Tour & Training
@@ -637,7 +562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027998ccd04@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:The Basics of Making Earrings
@@ -652,7 +577,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:457c12ed3c32@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Young Kids Dance Party
@@ -666,23 +591,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:16f0e2b7f3fb@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART:20261121T190000Z
-DTEND:20261121T220000Z
-SUMMARY:University of Montana Football at Montana State - 125th Brawl of the Wild
-LOCATION:Bozeman\, UM Campus
-DESCRIPTION:University of Montana Football at Montana State - 125th Brawl of the Wild TV: Scripps Sports Radio: Grizzly Sports Radio Network Streaming Video: https://plus.espn.com/ Streaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1039/content/umt:allaccess-Live-1150 Tickets:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=5262&amp\;sport_id=1
-URL:https://admin.gogriz.com/calendar.aspx?game_id=5262&amp;sport_id=1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Football at Montana State - 125th Brawl of the Wild
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:abf9e9a389d3@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261122T030000Z
 DTEND:20261122T050000Z
 SUMMARY:The Brothers Comatose @ The Wilma
@@ -697,7 +607,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f53a33aac6f6@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Montana State-Northern Skylights at Montana Lady Grizzlies Womens Basketball
@@ -712,7 +622,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c32a63cbb59c@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 SUMMARY:University of Montana Women's Basketball vs MSU Northern
@@ -727,7 +637,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c88e8df49534@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Art with a Purpose
@@ -742,7 +652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:439ac1b428ee@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:The Nutcracker: Magical Christmas Ballet
@@ -756,23 +666,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5fb49a02eb5a@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261125
-SUMMARY:University of Montana Volleyball vs Big Sky Conference Tournament
-LOCATION:Flagstaff\, UM Campus
-DESCRIPTION:University of Montana Volleyball vs Big Sky Conference Tournament Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference\nhttps://admin.gogriz.com/calendar.aspx?game_id=6641&amp\;sport_id=17
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6641&amp;sport_id=17
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Volleyball vs Big Sky Conference Tournament
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:df7cd3edac47@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261124T020000Z
 DTEND:20261124T040000Z
 SUMMARY:University of Montana Men's Basketball vs Carroll College
@@ -787,7 +682,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:108c1acc28f2@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Infant to 3-Year-Old Playgroup
@@ -802,7 +697,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b30d3452ac15@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261125T020000Z
 DTEND:20261125T040000Z
 SUMMARY:University of Montana Women's Basketball vs Carroll
@@ -817,7 +712,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:068ac474195b@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Middle School Writers’ Group
@@ -832,7 +727,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bec133351827@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Preschool STEM Building
@@ -847,7 +742,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2f2eca4f23e1@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:MCAT Tour & Training
@@ -862,7 +757,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0a46e8a655ee@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Young Kids Dance Party
@@ -877,7 +772,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c48b3e826c2e@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Art with a Purpose
@@ -892,7 +787,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b5431c2612ca@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Clark Fork Coalition Holiday Party at The Wilma - Missoula\, MT
@@ -907,7 +802,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c59c38762f87@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261204T020000Z
 DTEND:20261204T040000Z
 SUMMARY:University of Montana Women's Basketball vs Northern Arizona
@@ -922,7 +817,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:92519df02eb0@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261206
 SUMMARY:Little Red Truck's European Christmas Market Friday 4-8 and Saturday 10-4
@@ -937,7 +832,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:609bade40bea@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
 SUMMARY:Kip Moore @ The Wilma
@@ -952,7 +847,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c87e856b9d97@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261209T020000Z
 DTEND:20261209T040000Z
 SUMMARY:University of Montana Men's Basketball vs South Dakota
@@ -967,7 +862,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ae899f69c887@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Backcountry Film Festival ❄️
@@ -982,7 +877,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e5db3aba43f7@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Becky Robinson's Holiday Spectacular at Wilma Theatre Missoula
@@ -997,7 +892,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:565efd718bde@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
 SUMMARY:Becky Robinson @ The Wilma
@@ -1012,7 +907,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:92d1e1dac2cc@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Dave Simonett
@@ -1027,7 +922,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:23601461b8bc@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261212T180000Z
 DTEND:20261212T190000Z
 SUMMARY:Teddy Bear Tea Party 1
@@ -1042,7 +937,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fa5c453d0a42@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261212T193000Z
 DTEND:20261212T203000Z
 SUMMARY:Teddy Bear Tea Party 2
@@ -1057,7 +952,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a3314c02f483@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261212T210000Z
 DTEND:20261212T220000Z
 SUMMARY:Teddy Bear Tea Party 3
@@ -1072,7 +967,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f2ab9e4dde2c@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Missoula Holiday MADE fair
@@ -1087,7 +982,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8044d4a33109@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261213T180000Z
 DTEND:20261213T190000Z
 SUMMARY:Teddy Bear Tea Party 4
@@ -1102,7 +997,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:208e78edfba8@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261213T193000Z
 DTEND:20261213T203000Z
 SUMMARY:Teddy Bear Tea Party 5
@@ -1117,7 +1012,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f1c04d2eb234@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261213T210000Z
 DTEND:20261213T220000Z
 SUMMARY:Teddy Bear Tea Party 6
@@ -1132,7 +1027,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aeb700e070d5@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261219T020000Z
 DTEND:20261219T040000Z
 SUMMARY:University of Montana Men's Basketball vs Pepperdine
@@ -1147,7 +1042,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1a74fe1213ef@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261219T210000Z
 DTEND:20261219T230000Z
 SUMMARY:University of Montana Women's Basketball vs South Dakota
@@ -1162,7 +1057,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d1a9b4018ddd@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261222T020000Z
 DTEND:20261222T040000Z
 SUMMARY:University of Montana Men's Basketball vs Providence (Mont.)
@@ -1177,7 +1072,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eb473f8c8675@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20270207
 SUMMARY:Candlelight: Queen vs. ABBA
@@ -1192,7 +1087,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:96e65b80934b@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20261231T230000Z
 DTEND:20270101T010000Z
 SUMMARY:University of Montana Men's Basketball vs Northern Colorado
@@ -1207,7 +1102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e1a1f2883de5@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270102T210000Z
 DTEND:20270102T230000Z
 SUMMARY:University of Montana Men's Basketball vs Portland State
@@ -1222,7 +1117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:059b7efdf38c@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270108T020000Z
 DTEND:20270108T040000Z
 SUMMARY:University of Montana Women's Basketball vs Weber State
@@ -1237,7 +1132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6ef303e39dee@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270109T210000Z
 DTEND:20270109T230000Z
 SUMMARY:University of Montana Women's Basketball vs Idaho State
@@ -1252,7 +1147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e75e486753b3@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270115T020000Z
 DTEND:20270115T040000Z
 SUMMARY:University of Montana Men's Basketball vs Idaho
@@ -1267,7 +1162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:88ea8b12602c@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270116T230000Z
 DTEND:20270117T010000Z
 SUMMARY:University of Montana Men's Basketball vs Eastern Washington - N7 Game
@@ -1282,7 +1177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8ba62424dc16@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270118T210000Z
 DTEND:20270118T230000Z
 SUMMARY:University of Montana Women's Basketball vs Utah Tech
@@ -1296,38 +1191,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:870bd3d1844b@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART:20270123T220000Z
-DTEND:20270124T000000Z
-SUMMARY:University of Montana Women's Basketball at Montana State
-LOCATION:Bozeman\, UM Campus
-DESCRIPTION:University of Montana Women's Basketball at Montana State TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6688&amp\;sport_id=10
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6688&amp;sport_id=10
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Women's Basketball at Montana State
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bb1d29476cf1@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART:20270124T020000Z
-DTEND:20270124T040000Z
-SUMMARY:University of Montana Men's Basketball at Montana State
-LOCATION:Bozeman\, UM Campus
-DESCRIPTION:University of Montana Men's Basketball at Montana State TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6689&amp\;sport_id=3
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6689&amp;sport_id=3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Men's Basketball at Montana State
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:c2a29555c564@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270126T020000Z
 DTEND:20270126T040000Z
 SUMMARY:University of Montana Men's Basketball vs Southern Utah
@@ -1342,7 +1207,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:472fd79f8e80@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Symphony in Space
@@ -1357,7 +1222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:888a1b1cbab0@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:The Maye Masquerade Ball
@@ -1372,7 +1237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:28b1c67cb9fd@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270130T230000Z
 DTEND:20270131T010000Z
 SUMMARY:University of Montana Men's Basketball vs Northern Arizona
@@ -1387,7 +1252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a2d927526611@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270205T020000Z
 DTEND:20270205T040000Z
 SUMMARY:University of Montana Women's Basketball vs Portland State
@@ -1402,7 +1267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8c3fa7b6b344@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270206T210000Z
 DTEND:20270206T230000Z
 SUMMARY:University of Montana Women's Basketball vs Northern Colorado
@@ -1417,7 +1282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:161d8df01522@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270212T020000Z
 DTEND:20270212T040000Z
 SUMMARY:University of Montana Women's Basketball vs Eastern Washington
@@ -1432,7 +1297,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d5d061862482@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270213T210000Z
 DTEND:20270213T230000Z
 SUMMARY:University of Montana Women's Basketball vs Idaho
@@ -1447,7 +1312,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:82810071154a@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270219T020000Z
 DTEND:20270219T040000Z
 SUMMARY:University of Montana Men's Basketball vs Idaho State
@@ -1462,7 +1327,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:92c846224e5e@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270220T230000Z
 DTEND:20270221T010000Z
 SUMMARY:University of Montana Men's Basketball vs Weber State
@@ -1477,7 +1342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a865de906e09@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270223T020000Z
 DTEND:20270223T040000Z
 SUMMARY:University of Montana Men's Basketball vs Utah Tech
@@ -1492,7 +1357,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c87c0782538f@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270227T140000Z
 DTEND:20270227T160000Z
 SUMMARY:University of Montana Men's Basketball vs Montana State
@@ -1507,7 +1372,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:efd198c94d1c@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270227T210000Z
 DTEND:20270227T230000Z
 SUMMARY:University of Montana Women's Basketball vs Montana State
@@ -1522,7 +1387,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6f6d3c0182a7@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART:20270302T020000Z
 DTEND:20270302T040000Z
 SUMMARY:University of Montana Women's Basketball vs Southern Utah
@@ -1537,7 +1402,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6ecc6376f142@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270308
 SUMMARY:FREE Missoula Home & Remodeling Show\, March 2027
@@ -1551,188 +1416,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:81e8920ffd1e@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270306
-SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Play-In
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Play-In\nhttps://admin.gogriz.com/calendar.aspx?game_id=6762&amp\;sport_id=3
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6762&amp;sport_id=3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Play-In
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d608eacaae48@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270306
-SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Play-In
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Play-In TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6712&amp\;sport_id=10
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6712&amp;sport_id=10
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Play-In
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:83aa9336d0f1@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
-SUMMARY:University of Montana Men's Basketball vs Big Sky Conference First Round
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference First Round\nhttps://admin.gogriz.com/calendar.aspx?game_id=6763&amp\;sport_id=3
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6763&amp;sport_id=3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference First Round
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:97c48fdc8284@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
-SUMMARY:University of Montana Women's Basketball vs Big Sky Conference First Round
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference First Round TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6713&amp\;sport_id=10
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6713&amp;sport_id=10
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference First Round
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:546dbe34b624@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270308
-SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Quarterfinal
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Quarterfinal\nhttps://admin.gogriz.com/calendar.aspx?game_id=6764&amp\;sport_id=3
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6764&amp;sport_id=3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Quarterfinal
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:b62534a85471@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270308
-SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Quarterfinals
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Quarterfinals TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6714&amp\;sport_id=10
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6714&amp;sport_id=10
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Quarterfinals
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:736017f97923@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270309
-SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Quarterfinal
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Quarterfinal\nhttps://admin.gogriz.com/calendar.aspx?game_id=6765&amp\;sport_id=3
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6765&amp;sport_id=3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Quarterfinal
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ebdf58a1622b@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270309
-SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Quarterfinals
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Quarterfinals TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6715&amp\;sport_id=10
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6715&amp;sport_id=10
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Quarterfinals
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:db37f7b5d197@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270310
-SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Semifinal
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Semifinal\nhttps://admin.gogriz.com/calendar.aspx?game_id=6766&amp\;sport_id=3
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6766&amp;sport_id=3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Semifinal
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c9c60c268d10@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270310
-SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Semifinals
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Semifinals TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6716&amp\;sport_id=10
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6716&amp;sport_id=10
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Semifinals
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:11845d2aa4c9@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270311
-SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Championship
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Championship\nhttps://admin.gogriz.com/calendar.aspx?game_id=6767&amp\;sport_id=3
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6767&amp;sport_id=3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Championship
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:08403188b65e@wenatchee-activities
-DTSTAMP:20261113T184522Z
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270311
-SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Championship
-LOCATION:Boise\, UM Campus
-DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Championship TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6717&amp\;sport_id=10
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6717&amp;sport_id=10
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Championship
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:343d3d559158@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Tom Papa at Wilma Theatre Missoula
@@ -1747,7 +1432,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8b787ce0a757@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:Remi Wolf at KettleHouse Amphitheater
@@ -1762,7 +1447,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:284c84c7f50e@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 SUMMARY:Leon Bridges Tickets
@@ -1777,7 +1462,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:28ee045a5e0f@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:University of Montana Football vs Lehigh
@@ -1792,7 +1477,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:546b73fd0132@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
 SUMMARY:University of Montana Football vs Central Washington
@@ -1807,7 +1492,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7c0cd35ef82e@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 SUMMARY:University of Montana Football vs West Florida
@@ -1822,7 +1507,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:850504de40c7@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:University of Montana Football vs Cal Poly - Homecoming
@@ -1837,7 +1522,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0018ccf4cf73@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
 SUMMARY:University of Montana Football vs Eastern Washington
@@ -1852,7 +1537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:af26b7549fe6@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20271106
 DTEND;VALUE=DATE:20271107
 SUMMARY:University of Montana Football vs Northern Arizona
@@ -1867,7 +1552,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ccf76797a615@wenatchee-activities
-DTSTAMP:20261113T184522Z
+DTSTAMP:20261113T184800Z
 DTSTART;VALUE=DATE:20271120
 DTEND;VALUE=DATE:20271121
 SUMMARY:University of Montana Football vs Montana State
