@@ -1,0 +1,247 @@
+{
+ "_help": "Each source is tried with its strategies in order until one returns events. Strategies: tribe (WordPress 'The Events Calendar' REST API), ical (a .ics feed URL), jsonld (schema.org Event data embedded in a web page), discover (look for calendar feed links on the page). 'town' is the fallback town when an event has no address. 'aggregator: true' means events are kept only if their address is inside our area. 'concerts: true' marks every event from the source as a Plan Ahead candidate. Set 'enabled': false to switch a source off.",
+ "sources": [
+  {
+   "id": "grizhub",
+   "name": "GrizHub (UM student events)",
+   "town": "UM Campus",
+   "site": "https://umt.campuslabs.com/engage/events",
+   "strategies": [
+    [
+     "engage",
+     "https://umt.campuslabs.com/engage"
+    ],
+    [
+     "engage",
+     "https://grizhub.umt.edu/engage"
+    ]
+   ]
+  },
+  {
+   "id": "um-events",
+   "name": "University of Montana events",
+   "town": "UM Campus",
+   "site": "https://www.umt.edu/events/",
+   "strategies": [
+    [
+     "jsonld",
+     "https://www.umt.edu/events/"
+    ],
+    [
+     "discover",
+     "https://www.umt.edu/events/"
+    ]
+   ]
+  },
+  {
+   "id": "griz-athletics",
+   "name": "Montana Grizzlies athletics",
+   "town": "UM Campus",
+   "concerts": true,
+   "site": "https://gogriz.com/calendar",
+   "strategies": [
+    [
+     "ical",
+     "https://gogriz.com/calendar.ashx/calendar.ics"
+    ],
+    [
+     "jsonld",
+     "https://gogriz.com/calendar"
+    ],
+    [
+     "discover",
+     "https://gogriz.com/calendar"
+    ]
+   ],
+   "exclude": "\\b(at|@) (?!montana)|away"
+  },
+  {
+   "id": "dennison",
+   "name": "UM Arts & Culture (Dennison Theatre)",
+   "town": "UM Campus",
+   "concerts": true,
+   "site": "https://www.umt.edu/dennison-theatre/events/calendar.php",
+   "strategies": [
+    [
+     "jsonld",
+     "https://www.umt.edu/dennison-theatre/events/calendar.php"
+    ],
+    [
+     "discover",
+     "https://www.umt.edu/dennison-theatre/events/calendar.php"
+    ]
+   ]
+  },
+  {
+   "id": "destination-missoula",
+   "name": "Destination Missoula",
+   "town": "Missoula",
+   "site": "https://destinationmissoula.org/events",
+   "strategies": [
+    [
+     "jsonld",
+     "https://destinationmissoula.org/events"
+    ],
+    [
+     "crawl",
+     "https://destinationmissoula.org/events",
+     "/event/\\d+",
+     "45"
+    ],
+    [
+     "discover",
+     "https://destinationmissoula.org/events"
+    ]
+   ]
+  },
+  {
+   "id": "downtown",
+   "name": "Missoula Downtown Partnership",
+   "town": "Downtown Missoula",
+   "site": "https://www.missouladowntown.com/events/",
+   "strategies": [
+    [
+     "tribe",
+     "https://www.missouladowntown.com"
+    ],
+    [
+     "jsonld",
+     "https://www.missouladowntown.com/events/"
+    ],
+    [
+     "discover",
+     "https://www.missouladowntown.com/events/"
+    ]
+   ]
+  },
+  {
+   "id": "library",
+   "name": "Missoula Public Library",
+   "town": "Downtown Missoula",
+   "site": "https://www.missoulapubliclibrary.org/home/programs/program-calendar",
+   "strategies": [
+    [
+     "ical",
+     "https://www.missoulapubliclibrary.org/events.ics"
+    ],
+    [
+     "ical",
+     "https://www.missoulapubliclibrary.org/program-calendar/?ical=1"
+    ],
+    [
+     "discover",
+     "https://www.missoulapubliclibrary.org/home/programs/program-calendar"
+    ]
+   ]
+  },
+  {
+   "id": "logjam",
+   "name": "Logjam Presents (KettleHouse, Wilma, Top Hat)",
+   "town": "Missoula",
+   "concerts": true,
+   "site": "https://logjampresents.com/",
+   "strategies": [
+    [
+     "jsonld",
+     "https://logjampresents.com/",
+     "https://logjampresents.com/events/"
+    ],
+    [
+     "discover",
+     "https://logjampresents.com/"
+    ]
+   ]
+  },
+  {
+   "id": "zacc",
+   "name": "Zootown Arts Community Center",
+   "town": "Downtown Missoula",
+   "site": "https://www.zootownarts.org/events",
+   "strategies": [
+    [
+     "tribe",
+     "https://www.zootownarts.org"
+    ],
+    [
+     "jsonld",
+     "https://www.zootownarts.org/events"
+    ],
+    [
+     "discover",
+     "https://www.zootownarts.org/events"
+    ]
+   ]
+  },
+  {
+   "id": "songkick",
+   "name": "Songkick concerts",
+   "aggregator": true,
+   "concerts": true,
+   "site": "https://www.songkick.com/venues/5847-wilma",
+   "strategies": [
+    [
+     "jsonld",
+     "https://www.songkick.com/venues/5847-wilma",
+     "https://www.songkick.com/venues/3305629-wilma-theatre"
+    ]
+   ]
+  },
+  {
+   "id": "allevents",
+   "name": "AllEvents (incl. Facebook events)",
+   "aggregator": true,
+   "site": "https://allevents.in/missoula",
+   "strategies": [
+    [
+     "jsonld",
+     "https://allevents.in/missoula",
+     "https://allevents.in/bonner",
+     "https://allevents.in/lolo",
+     "https://allevents.in/stevensville",
+     "https://allevents.in/frenchtown"
+    ]
+   ]
+  },
+  {
+   "id": "happeningnext",
+   "name": "HappeningNext",
+   "aggregator": true,
+   "site": "https://happeningnext.com/missoula",
+   "strategies": [
+    [
+     "jsonld",
+     "https://happeningnext.com/missoula"
+    ]
+   ]
+  },
+  {
+   "id": "reddit",
+   "name": "Reddit (r/missoula & r/umt)",
+   "town": "Missoula",
+   "site": "https://www.reddit.com/r/missoula/",
+   "strategies": [
+    [
+     "reddit",
+     "missoula",
+     "umt"
+    ]
+   ]
+  },
+  {
+   "id": "bluesky",
+   "name": "Bluesky posts",
+   "aggregator": true,
+   "site": "https://bsky.app/search?q=missoula",
+   "strategies": [
+    [
+     "bluesky",
+     "missoula",
+     "university of montana",
+     "griz",
+     "missoula food truck",
+     "missoula concert"
+    ]
+   ]
+  }
+ ]
+}

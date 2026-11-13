@@ -1,0 +1,211 @@
+{
+ "name": "🏔️ Missoula Happenings",
+ "tagline": "Missoula · UM campus · Bitterroot · Blackfoot",
+ "repo": "joemarcouxid/missoula-activities",
+ "tz": "America/Denver",
+ "areas": [
+  {
+   "name": "UM Campus",
+   "words": [
+    "university of montana",
+    "umontana",
+    "umt.edu",
+    "adams center",
+    "adams event center",
+    "washington-grizzly",
+    "washington grizzly",
+    "dennison theatre",
+    "dennison theater",
+    "university center",
+    "partv",
+    "montana theatre",
+    "masquer theatre",
+    "montana museum of art and culture",
+    "mmac",
+    "the oval",
+    "griz ",
+    "grizzlies",
+    "grizhub",
+    "dornblaser",
+    "schreiber gym",
+    "32 campus dr"
+   ],
+   "zips": [
+    "59812"
+   ]
+  },
+  {
+   "name": "Bonner / East Missoula",
+   "words": [
+    "bonner",
+    "milltown",
+    "east missoula",
+    "clinton",
+    "kettlehouse amphitheater",
+    "kettlehouse amphitheatre"
+   ],
+   "zips": [
+    "59823",
+    "59851",
+    "59825"
+   ]
+  },
+  {
+   "name": "Lolo / Bitterroot",
+   "words": [
+    "lolo",
+    "florence",
+    "stevensville",
+    "hamilton",
+    "corvallis, mt",
+    "victor",
+    "darby",
+    "bitterroot",
+    "daly mansion"
+   ],
+   "zips": [
+    "59847",
+    "59833",
+    "59870",
+    "59840",
+    "59828",
+    "59875",
+    "59829"
+   ]
+  },
+  {
+   "name": "Frenchtown / Huson",
+   "words": [
+    "frenchtown",
+    "huson",
+    "alberton"
+   ],
+   "zips": [
+    "59834",
+    "59846",
+    "59820"
+   ]
+  },
+  {
+   "name": "Seeley Lake",
+   "words": [
+    "seeley lake",
+    "condon"
+   ],
+   "zips": [
+    "59868",
+    "59826"
+   ]
+  },
+  {
+   "name": "Downtown Missoula",
+   "words": [
+    "downtown missoula",
+    "caras park",
+    "the wilma",
+    "wilma theatre",
+    "top hat",
+    "zootown arts",
+    "zacc",
+    "missoula public library",
+    "higgins",
+    "front st",
+    "pattee",
+    "the ball room",
+    "monk's",
+    "monks bar",
+    "missoula art museum",
+    "badlander",
+    "confluence events center",
+    "doubletree edgewater",
+    "missoula children's theatre",
+    "mct center",
+    "rhinoceros",
+    "draught works",
+    "imagine nation",
+    "kettlehouse brewing",
+    "montgomery distillery"
+   ]
+  },
+  {
+   "name": "Missoula",
+   "words": [
+    "missoula",
+    "zootown",
+    "snowbowl",
+    "ogren park",
+    "fort missoula",
+    "big sky brewing",
+    "southgate mall",
+    "fairgrounds",
+    "marshall mountain",
+    "rattlesnake"
+   ],
+   "zips": [
+    "598\\d\\d"
+   ]
+  }
+ ],
+ "displayOrder": [
+  "UM Campus",
+  "Downtown Missoula",
+  "Missoula",
+  "Bonner / East Missoula",
+  "Lolo / Bitterroot",
+  "Frenchtown / Huson",
+  "Seeley Lake"
+ ],
+ "notHere": [
+  "kalispell",
+  "whitefish",
+  "polson",
+  "bigfork",
+  "lakeside",
+  "browning",
+  "helena",
+  "bozeman",
+  "butte",
+  "great falls",
+  "billings",
+  "spokane",
+  "coeur d'alene",
+  "sandpoint",
+  "boise",
+  "seattle",
+  "salmon, id",
+  "dillon",
+  "anaconda",
+  "deer lodge",
+  "ronan",
+  "st. ignatius",
+  "glacier national park",
+  "west glacier",
+  "columbia falls",
+  "helmville",
+  "livingston",
+  "big sky, mt",
+  "pendleton",
+  "kennewick",
+  "moscow, id"
+ ],
+ "bigVenues": [
+  "kettlehouse amphitheater",
+  "kettlehouse amphitheatre",
+  "the wilma",
+  "wilma theatre",
+  "top hat",
+  "adams center",
+  "adams event center",
+  "washington-grizzly stadium",
+  "washington grizzly stadium",
+  "dennison theatre",
+  "big sky brewing",
+  "ogren park",
+  "missoula county fairgrounds",
+  "the ball room",
+  "montana theatre",
+  "missoula children's theatre",
+  "mct center",
+  "zacc showroom"
+ ]
+}

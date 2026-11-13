@@ -1,0 +1,15 @@
+https://umt.campuslabs.com/engage/api/discovery/event/search?take=2&status=Approved
+https://grizhub.umt.edu/engage/api/discovery/event/search?take=2&status=Approved
+https://www.umt.edu/events/
+https://gogriz.com/calendar.ashx/calendar.ics
+https://gogriz.com/calendar
+https://www.umt.edu/dennison-theatre/events/calendar.php
+https://destinationmissoula.org/events
+https://www.missouladowntown.com/events/
+https://www.missoulapubliclibrary.org/events.ics
+https://www.missoulapubliclibrary.org/home/programs/program-calendar
+https://logjampresents.com/
+https://www.zootownarts.org/events
+https://allevents.in/missoula
+https://happeningnext.com/missoula
+https://www.reddit.com/r/missoula/new/.rss
