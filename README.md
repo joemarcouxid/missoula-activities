@@ -16,6 +16,6 @@ What's going on in Missoula, built for a University of Montana student and famil
 2. **Email / GitHub app alert:** new concerts and big events open a "🎟 New events announced" issue. **Watch** this repo to get notified.
 
 ## How it works
-Every 3 hours GitHub Actions runs `scripts/collect.py` over the sources in `docs/data/sources.json` (GrizHub, UM events, Griz athletics, Destination Missoula, Missoula Downtown Partnership, Missoula Public Library, Logjam Presents, ZACC, Songkick, AllEvents, HappeningNext, r/missoula, r/umt and Bluesky), tags events by area using `docs/data/region.json`, and writes `docs/data/events.json`. GitHub Pages serves `docs/`.
+Once a day (early morning) GitHub Actions runs `scripts/collect.py` over the sources in `docs/data/sources.json` (GrizHub, UM events, Griz athletics, Destination Missoula, Missoula Downtown Partnership, Missoula Public Library, Logjam Presents, ZACC, Songkick, AllEvents, HappeningNext, r/missoula, r/umt and Bluesky), tags events by area using `docs/data/region.json`, and writes `docs/data/events.json`. GitHub Pages serves `docs/`.
 
 Same engine as [wenatchee-activities](https://github.com/joemarcouxid/wenatchee-activities) and [spokane-activities](https://github.com/joemarcouxid/spokane-activities); only `docs/data/region.json` and `docs/data/sources.json` differ.
