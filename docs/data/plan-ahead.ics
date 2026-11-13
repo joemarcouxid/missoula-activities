@@ -2,1341 +2,1866 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//wenatchee-activities//Plan Ahead//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Wenatchee Area – Plan Ahead
-X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALNAME:🏔️ Missoula Happenings – Plan Ahead
+X-WR-TIMEZONE:America/Denver
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:a256abe15ee0@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20270328
-SUMMARY:Wenatchee Wild vs. Everett Silvertips
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:$22 \nhttps://happeningnext.com/event/wenatchee-wild-vs-everett-silvertips-eid13twixk2l3c
-URL:https://happeningnext.com/event/wenatchee-wild-vs-everett-silvertips-eid13twixk2l3c
+UID:3b009c42b9d5@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270207
+SUMMARY:Candlelight: Coldplay & Imagine Dragons
+LOCATION:Missoula Children's Theatre\, Downtown Missoula
+DESCRIPTION:$33 \nhttps://happeningnext.com/event/candlelight-coldplay-andamp-imagine-dragons-eid1afw9pp5tnn
+URL:https://happeningnext.com/event/candlelight-coldplay-andamp-imagine-dragons-eid1afw9pp5tnn
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Wenatchee Wild vs. Everett Silvertips
+DESCRIPTION:Get tickets: Candlelight: Coldplay & Imagine Dragons
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f0c884940e7c@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261129
-SUMMARY:Penticton Vees at Wenatchee Wild at Town Toyota Center
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:https://happeningnext.com/event/penticton-vees-at-wenatchee-wild-at-town-toyota-center-eid15hwh4rsiu9
-URL:https://happeningnext.com/event/penticton-vees-at-wenatchee-wild-at-town-toyota-center-eid15hwh4rsiu9
+UID:2c2b61cfd260@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261113T173000Z
+DTEND:20261113T193000Z
+SUMMARY:University of Montana Soccer vs (3) Northern Arizona vs. (2) Northern Colorado
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Soccer vs (3) Northern Arizona vs. (2) Northern Colorado TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\nhttps://admin.gogriz.com/calendar.aspx?game_id=6603&amp\;sport_id=14
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6603&amp;sport_id=14
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Penticton Vees at Wenatchee Wild at Town Toyota Center
+DESCRIPTION:Get tickets: University of Montana Soccer vs (3) Northern Arizona vs. (2) Northern Colorado
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d4f5e180c3eb@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261114T000000Z
-DTEND:20261114T030000Z
-SUMMARY:Live Music w/ Ray Glover
-LOCATION:Goose Ridge: Leavenworth Tasting Room\, Leavenworth
-DESCRIPTION:As the singer/guitarist for the DIMESTORE PROPHETS\, Ray Glover paints a melodious atmosphere\, bringing a fine blend of acoustic covers showcasing contemporary and classic top 40 hits. Ray’s poignant vocals and smooth rhythmic approach engulf listeners in what can only be described as “feeling good”.\nhttps://www.gooseridge.com/leavenworth/
-URL:https://www.gooseridge.com/leavenworth/
+UID:c7ca76a67afb@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261113T190000Z
+DTEND:20261113T220000Z
+SUMMARY:University of Montana Men's Cross Country vs NCAA Mountain Regional
+LOCATION:Albuquerque\, UM Campus
+DESCRIPTION:University of Montana Men's Cross Country vs NCAA Mountain Regional\nhttps://admin.gogriz.com/calendar.aspx?game_id=6665&amp\;sport_id=4
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6665&amp;sport_id=4
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Live Music w/ Ray Glover
+DESCRIPTION:Get tickets: University of Montana Men's Cross Country vs NCAA Mountain Regional
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c32ade2001cb@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:bc10049f013a@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261113T203000Z
+DTEND:20261113T223000Z
+SUMMARY:University of Montana Soccer vs (4) Idaho vs. (1) Weber State
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Soccer vs (4) Idaho vs. (1) Weber State TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\nhttps://admin.gogriz.com/calendar.aspx?game_id=6604&amp\;sport_id=14
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6604&amp;sport_id=14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Soccer vs (4) Idaho vs. (1) Weber State
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cf256f7e8b4c@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261114T020000Z
+DTEND:20261114T033000Z
+SUMMARY:Can the Cats with discounted Lady Griz tickets Nov 13!
+LOCATION:Adams Center - Dahlberg Arena (Robin Selvig Court)\, UM Campus
+DESCRIPTION:Cheer on the Griz for a good cause! Bring five canned food items to the Nov. 13 Lady Griz game\, drop them off at the collection bin in the Adams Center and purchase a discounted $5 ticket at the ticket window. Your donations support the UM Food Pantry and Missoula Food Bank and Community Center.…\nhttps://grizhub.umt.edu/engage/event/12937649
+URL:https://grizhub.umt.edu/engage/event/12937649
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Can the Cats with discounted Lady Griz tickets Nov 13!
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9843abc1dc2d@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261114T020000Z
+DTEND:20261114T040000Z
+SUMMARY:University of Montana Women's Basketball vs Houston
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Houston Radio: KGRZ (1450 AM/92.7 FM) Streaming Audio: https://kgrzmissoula.com/listen-live/\nhttps://admin.gogriz.com/calendar.aspx?game_id=6652&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6652&amp;sport_id=10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Houston
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1f39b02ff7d0@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261114T023000Z
+DTEND:20261114T050000Z
+SUMMARY:Griz Hockey vs. Boise State (Veterans Day Game)
+LOCATION:Glacier Ice Rink\, UM Campus
+DESCRIPTION:Veterans Day Game - All veterans get 20% off their tickets at the gate day of game. The team will also be wearing limited edition jerseys sponsored by Scheels that will be auctioned off raising money for the University of Montana Military and Veteran Services. You can bid on your limited edition…\nhttps://grizhub.umt.edu/engage/event/12511992
+URL:https://grizhub.umt.edu/engage/event/12511992
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Griz Hockey vs. Boise State (Veterans Day Game)
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f41f7eff66b4@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261114T023000Z
+DTEND:20261114T033000Z
+SUMMARY:Symphonic Wind Ensemble and Popular Music Ensemble
+LOCATION:Dennison Theatre and ALI Auditorium\, UM Campus
+DESCRIPTION:The UM Symphonic Wind Ensemble (SWE) is joined by the Popular Music Ensemble (PME) in a two-stage concert that moves from the Dennison Theatre across the sidewalk to the Ali Auditorium. The first half features the Symphonic Wind Ensemble with guest composer\, Carol Brittin Chambers and trumpet…\nhttps://grizhub.umt.edu/engage/event/12928932
+URL:https://grizhub.umt.edu/engage/event/12928932
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Symphonic Wind Ensemble and Popular Music Ensemble
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db75d2aa98fa@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-SUMMARY:Dwight Yoakam @ Town Toyota Center
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:Dwight Yoakam at Town Toyota Center at 2026-11-13T19:00:00-0800\nhttp://www.songkick.com/concerts/43378275-dwight-yoakam-at-town-toyota-center?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/concerts/43378275-dwight-yoakam-at-town-toyota-center?utm_medium=organic&utm_source=microformat
+SUMMARY:The Last Revel @ The Wilma
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:The Last Revel and Abby Webster at The Wilma at 2026-11-13T20:00:00-0700\nhttp://www.songkick.com/concerts/43343591-last-revel-at-wilma?utm_medium=organic&utm_source=microformat
+URL:http://www.songkick.com/concerts/43343591-last-revel-at-wilma?utm_medium=organic&utm_source=microformat
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Dwight Yoakam @ Town Toyota Center
+DESCRIPTION:Get tickets: The Last Revel @ The Wilma
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eff2cbdab567@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:6a0255b5a98b@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Holiday Open House & Wine Walk
-LOCATION:103 Palouse St\, Suite 10\, Wenatchee\, WA\, United States\, Washington 98801\, Wenatchee
-DESCRIPTION:Kick off the holiday season in downtown Wenatchee with a cozy evening of shopping\, sipping\, and celebration! This year's Wine Walk features 21 tasting rooms throughout downtown. Your ticket includes a tasting bracelet that gives you access to wine tasti\nhttps://allevents.in/wenatchee/holiday-open-house-and-wine-walk/200030744631612
-URL:https://allevents.in/wenatchee/holiday-open-house-and-wine-walk/200030744631612
+SUMMARY:Griz football vs. Idaho State 11/14
+LOCATION:Washington–Grizzly Stadium\, Missoula
+DESCRIPTION:4 tickets to the FCS game of the week. Clash of two Top 25 teams\, with playoff implications. University of Montana vs Idaho State. South End zone. Sec 112\, Row 16\, seats 4-7. $75 each obo. Digital tickets.\nhttps://allevents.in/missoula/griz-football-vs-idaho-state-11-14/200031028057607
+URL:https://allevents.in/missoula/griz-football-vs-idaho-state-11-14/200031028057607
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Holiday Open House & Wine Walk
+DESCRIPTION:Get tickets: Griz football vs. Idaho State 11/14
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:32d03a92adbf@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:c489baeb25f8@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Jazz Jam Quintet: Music and Dancing
-LOCATION:Studio 509 Dance\, Wenatchee
-DESCRIPTION:$23 Join us for a fun evening of live music and dancing to the Jazz Jam Quintet! Come dance or just watch from our onsite bar\, The Wallflower.Agenda🕑: 07:00 PM - 08:00 PMBegin\nhttps://happeningnext.com/event/jazz-jam-quintet-music-and-dancing-eid1ef0l8re1kla
-URL:https://happeningnext.com/event/jazz-jam-quintet-music-and-dancing-eid1ef0l8re1kla
+SUMMARY:Idaho State Bengals at Montana Grizzlies Football at Washington-Grizzly Stadium
+LOCATION:Washington-Grizzly Stadium\, UM Campus
+DESCRIPTION:📍 Venue: Washington-Grizzly Stadium 🏠 Address: 32 Campus Dr\, Missoula\, MT 59812 🌆 City: Missoula 📍 Location: 46.8606\, -113.982✨ Experience the magic of Idaho State Bengals at Montana Grizzlies Football\, where moments become memories that\nhttps://allevents.in/missoula/idaho-state-bengals-at-montana-grizzlies-football-at-washington-grizzly-stadium/2400029253745415
+URL:https://allevents.in/missoula/idaho-state-bengals-at-montana-grizzlies-football-at-washington-grizzly-stadium/2400029253745415
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Jazz Jam Quintet: Music and Dancing
+DESCRIPTION:Get tickets: Idaho State Bengals at Montana Grizzlies Football at Washington-Grizzly Stadium
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:85479b4008c4@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:11cdccb30188@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Wenatchee Wine and Food Festival
-LOCATION:Wenatchee Convention Center\, Wenatchee
-DESCRIPTION:$103 Foothills Magazine is proud to produce the Wenatchee Wine & Food Festival\, Eastern Washington’s premier food and wine event!About this EventFoothills Magazine is proud to produce the Wenatchee Wine & Food Fe\nhttps://happeningnext.com/event/wenatchee-wine-and-food-festival-eid1ef0l5rcffxr
-URL:https://happeningnext.com/event/wenatchee-wine-and-food-festival-eid1ef0l5rcffxr
+SUMMARY:MCAT Tour & Training
+LOCATION:MCAT\, Downtown Missoula
+DESCRIPTION:<p><em>MCAT</em></p> <p> </p> <p>Learn about all the media resources MCAT offers for public use. The tour includes the studio\, computer editing\, podcast rooms and cameras for check-out. For more information\, or to arrange a custom tour for groups\, call MCAT media instructors at (406)542-6228.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
+URL:https://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Wenatchee Wine and Food Festival
+DESCRIPTION:Get tickets: MCAT Tour & Training
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:580f15409b07@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261114T170000Z
-DTEND:20261114T220000Z
-SUMMARY:Mountain Market at Mountain Springs Lodge
-LOCATION:Mountain Springs Lodge\, Leavenworth
-DESCRIPTION:Join us for the Mountain Market at Mountain Springs Lodge\, a vibrant celebration of local makers and community! This free\, family-friendly event welcomes you to explore talented local vendors showcased inside the lodge. Enjoy a variety of food and beverages available for purchase. Friendly…\nhttps://www.mtsprings.com/mtn_experiences/mountain-market/
-URL:https://www.mtsprings.com/mtn_experiences/mountain-market/
+UID:fd60a681b6f1@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Montana Grizzlies Football vs. Idaho State Bengals Football
+LOCATION:Washington-Grizzly Stadium\, UM Campus
+DESCRIPTION:Nearby AttractionsUniversity of Montana Football has 3 upcoming events.Idaho State University Bengals Football has 3 upcoming events.\nhttps://allevents.in/missoula/montana-grizzlies-football-vs-idaho-state-bengals-football/210001110293870
+URL:https://allevents.in/missoula/montana-grizzlies-football-vs-idaho-state-bengals-football/210001110293870
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Mountain Market at Mountain Springs Lodge
+DESCRIPTION:Get tickets: Montana Grizzlies Football vs. Idaho State Bengals Football
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:41721959b2f6@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261115T000000Z
+UID:b5eb77115c63@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Young Kids Dance Party
+LOCATION:MCAT\, Downtown Missoula
+DESCRIPTION:<p><em><strong>MCAT</strong></em></p> <p> </p> <p>MCAT offers a disco dance opportunity for kids\, caregivers and parents every Saturday from 11:00 AM to 11:45 AM. Stop by the MCAT studio in the southeast Corner of Level One after <a…\nhttps://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
+URL:https://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Young Kids Dance Party
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e3e9502de337@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261115T020000Z
+DTEND:20261115T033000Z
+SUMMARY:Game Day Food Drive for Can the Cats!
+LOCATION:Washington Grizzly Stadium\, UM Campus
+DESCRIPTION:The UM Food Pantry is looking for 15 volunteers to help us with our Can the Cats Game Day Food Drive on November 14th! This city-wide food drive harnesses the Griz/Cat rivalry to collect food and funds to support the UM Food Pantry and Missoula Food Bank & Community Center. Join our team for the…\nhttps://grizhub.umt.edu/engage/event/12878755
+URL:https://grizhub.umt.edu/engage/event/12878755
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Game Day Food Drive for Can the Cats!
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5d16c519afc2@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261115T023000Z
 DTEND:20261115T050000Z
-SUMMARY:Warren Miller’s Days Off
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Join us for a family-friendly ski film fundraiser supporting two great community nonprofits: Plain Valley Ski Trails’ youth ski program\, the Plain Valley Nordic Team (PVNT)\, and Leavenworth Winter Sports Club’s youth Nordic team (LWSC). Be prepared to enter the raffle for great prizes that will…\nhttps://icicle.my.salesforce-sites.com/ticket/#/events/a0SPH00000K6Von2AF
-URL:https://icicle.my.salesforce-sites.com/ticket/#/events/a0SPH00000K6Von2AF
+SUMMARY:Griz Hockey vs. Boise State (Can the Cats Game!)
+LOCATION:Glacier Ice Rink\, UM Campus
+DESCRIPTION:Second game of the weekend vs. Boise State. Game Start: 7:30 PM Ticket Link: https://www.grizhockey.com/game-14-boise-state-2 Bring a canned food or nonperishable food item to support Can the Cats (Nov 7-Nov 21) and get entered to win a Griz Hockey jersey! Raffle tickets are available towards the…\nhttps://grizhub.umt.edu/engage/event/12511997
+URL:https://grizhub.umt.edu/engage/event/12511997
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Warren Miller’s Days Off
+DESCRIPTION:Get tickets: Griz Hockey vs. Boise State (Can the Cats Game!)
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:89087a81b0b3@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261115T230000Z
-DTEND:20261116T020000Z
-SUMMARY:Live Music w/ Owen Barnhart & Maritza
-LOCATION:Goose Ridge: Leavenworth Tasting Room\, Leavenworth
-DESCRIPTION:Owen is a singer-songwriter and multi-instrumentalist from a small mountain town in Washington state. A Stehekin native\, Owen Barnhart plays a unique tribute to his roots in Classic Country and Americana with woody fingerpicked guitar and a crystal clear voice. From Waylon to Buck\, to Eric Church…\nhttps://www.gooseridge.com/leavenworth/
-URL:https://www.gooseridge.com/leavenworth/
+UID:e1aed250bee4@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261115T030000Z
+DTEND:20261115T050000Z
+SUMMARY:Railroad Earth @ The Wilma
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:Railroad Earth at The Wilma at 2026-11-14T20:00:00-0700\nhttp://www.songkick.com/concerts/43311514-railroad-earth-at-wilma?utm_medium=organic&utm_source=microformat
+URL:http://www.songkick.com/concerts/43311514-railroad-earth-at-wilma?utm_medium=organic&utm_source=microformat
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Live Music w/ Owen Barnhart & Maritza
+DESCRIPTION:Get tickets: Railroad Earth @ The Wilma
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:30eab91f423e@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261116T020000Z
-DTEND:20261116T050000Z
-SUMMARY:Taste & See Banqueet
-LOCATION:Icicle Ridge Winery\, Cashmere
-DESCRIPTION:An exclusive evening at the Icicle Ridge Log Home Tasting room in Peshastin\, WA! Explore and celebrate fantastic flavors with rich food prepared by local artisan chef Ashley Erickson (Conifer Catering) paired with the excellent wines crafted by the family of Icicle Ridge Winery. Ingalls Creek…\nhttps://www.ingallscreek.org/upcomingevents#/event/188/taste-see-banquet
-URL:https://www.ingallscreek.org/upcomingevents#/event/188/taste-see-banquet
+UID:a8847cb8a549@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261115T033000Z
+DTEND:20261115T063000Z
+SUMMARY:University of Montana Football vs Idaho State - Senior Day
+LOCATION:Missoula\, UM Campus
+DESCRIPTION:University of Montana Football vs Idaho State - Senior Day TV: ESPN 2 Radio: Grizzly Sports Radio Network Streaming Video: https://www.espn.com/ Streaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1039/content/umt:allaccess-Live-1149 Tickets:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6484&amp\;sport_id=1
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6484&amp;sport_id=1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Taste & See Banqueet
+DESCRIPTION:Get tickets: University of Montana Football vs Idaho State - Senior Day
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f3fe8fe26f75@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261119T030000Z
-DTEND:20261119T060000Z
-SUMMARY:Leavenworth’s Original Comedy Night at Bushel and Bee
-LOCATION:Bushel & Bee Taproom\, Leavenworth
-DESCRIPTION:Join us for Leavenworth’s Original Comedy Night at Bushel! Wednesday 11/18\, Doors: 7PM\, come early for the best seats! 21+ $14 Tickets (linked or come into the taproom) Headliner: Greg Beachler Opener: Brandon White Local Hilarious Human Lisa Martinez will be Mcing the night. No dogs please\, they…\nhttps://www.facebook.com/share/1FGKcrSUZq/
-URL:https://www.facebook.com/share/1FGKcrSUZq/
+UID:ef7ee97e5eb6@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:MISSOULA\, MT @ Big Sky Brewing ♦ STAND-UP comedy ♦ SUNDAY ♦ 15 November @ 7pm (local time)
+LOCATION:5417 Trumpeter Way\, Missoula\, MT 59808\, USA\, Missoula
+DESCRIPTION:https://allevents.in/missoula/missoula-mt-big-sky-brewing-stand-up-comedy-sunday-15-november-7pm-local-time/200030743140053
+URL:https://allevents.in/missoula/missoula-mt-big-sky-brewing-stand-up-comedy-sunday-15-november-7pm-local-time/200030743140053
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Leavenworth’s Original Comedy Night at Bushel and Bee
+DESCRIPTION:Get tickets: MISSOULA\, MT @ Big Sky Brewing ♦ STAND-UP comedy ♦ SUNDAY ♦ 15 November @ 7pm (local time)
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f798a2e39b44@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261119T140000Z
-DTEND:20261120T043000Z
-SUMMARY:Girls’ Night Out @NCW Woodshop
-LOCATION:NCW Woodshop\, Cashmere
-DESCRIPTION:Looking for a fun and creative night out with friends? Join us for a hands-on Girls’ Night Out woodworking class\, where you’ll craft your very own hexagon floating shelves to take home and display! During this 2.5-hour session\, you’ll start with pre-cut wood pieces and learn how to assemble them…\nhttps://ncwwoodshop.com/class-GNO
-URL:https://ncwwoodshop.com/class-GNO
+UID:a5ff3c8558e1@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+SUMMARY:University of Montana Soccer vs Big Sky Conference Championship
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Soccer vs Big Sky Conference Championship TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\nhttps://admin.gogriz.com/calendar.aspx?game_id=6605&amp\;sport_id=14
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6605&amp;sport_id=14
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Girls’ Night Out @NCW Woodshop
+DESCRIPTION:Get tickets: University of Montana Soccer vs Big Sky Conference Championship
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0e394d1c0b48@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261119T180000Z
-DTEND:20261119T220000Z
-SUMMARY:Winter Prep Workday: Mulching for Native Plants
-LOCATION:Red Barn at Wenatchee River Institute\, Wenatchee
-DESCRIPTION:Free Join us for a hands-on community workday as we prepare our Native Plant Garden for winter! Newly planted native species face tough competition from winter-growing grasses that thrive under the snow and stunt spring growth. By applying a heavy layer of mulch\, we can smother these invasive grasses\,…\nhttps://wenatcheeriverinstitute.org/event-calendar.html/event/2026/11/19/winter-prep-workday-mulching-for-native-plants/582052
-URL:https://wenatcheeriverinstitute.org/event-calendar.html/event/2026/11/19/winter-prep-workday-mulching-for-native-plants/582052
+UID:be20e56998e4@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Art with a Purpose
+LOCATION:Families First Classroom\, Downtown Missoula
+DESCRIPTION:<p><em><strong>Families First</strong><br /> </em></p> <p> </p> <p>Art with a Purpose is a program that allows children the ability to get creative while serving our community! We also feature fun and educational activities that promote our vision of imaginative & dramatic play. Drop by our…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
+URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Winter Prep Workday: Mulching for Native Plants
+DESCRIPTION:Get tickets: Art with a Purpose
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:284744a6a27f@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:f6d7f7166b2a@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261117T020000Z
+DTEND:20261117T033000Z
+SUMMARY:Can the Cats with Griz Volleyball - Nov 16! 🏐
+LOCATION:Adams Center Dahlberg Arena – Robin Selvig Court\, UM Campus
+DESCRIPTION:Cheer on the Griz and give back! Bring five canned food items to the Nov. 7 or Nov. 16 Griz Volleyball match and receive free admission. Simply drop off your donations at the collection bin in the Adams Center and grab your ticket! Your donations support the UM Food Pantry and Missoula Food Bank…\nhttps://grizhub.umt.edu/engage/event/12937615
+URL:https://grizhub.umt.edu/engage/event/12937615
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Can the Cats with Griz Volleyball - Nov 16! 🏐
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9851913dff2d@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261117T020000Z
+DTEND:20261117T040000Z
+SUMMARY:University of Montana Volleyball vs Northern Colorado
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Volleyball vs Northern Colorado Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Tickets: https://griztix.evenue.net/events/VBG\nhttps://admin.gogriz.com/calendar.aspx?game_id=6639&amp\;sport_id=17
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6639&amp;sport_id=17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Volleyball vs Northern Colorado
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1d17e32d1de4@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Infant to 3-Year-Old Playgroup
+LOCATION:Imaginarium\, Downtown Missoula
+DESCRIPTION:<p><em><strong>Families First</strong></em></p> <p> </p> <p>Families First and the Missoula Public Library host a play group for infants to three-year-olds. Activities focus on early childhood development\, play and the importance of community.</p> <p> </p> <p><span…\nhttps://www.missoulapubliclibrary.org/program-calendar/infant-to-3-year-old-playgroup/
+URL:https://www.missoulapubliclibrary.org/program-calendar/infant-to-3-year-old-playgroup/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Infant to 3-Year-Old Playgroup
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eb2a0d250ebf@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Learn the Basics of Audio Recording
+LOCATION:MCAT\, Downtown Missoula
+DESCRIPTION:<p>Learn the basics of audio recording\, including home studio recording\, field recording\, and camera audio. Great for the absolute beginners to those with some experience. Travis Yost is a recording engineer and performing musician with 30+ years of experience.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/learn-the-basics-of-audio-recording/
+URL:https://www.missoulapubliclibrary.org/program-calendar/learn-the-basics-of-audio-recording/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Learn the Basics of Audio Recording
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5bb7404b65ea@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:3rd Wednesday Book Group
+LOCATION:Art Box\, Downtown Missoula
+DESCRIPTION:<p class="p1">Meetings will be held in the Blackfoot Room on Level Four. If you are interested in participating in this discussion\, email Pam at <a href="mailto:pamc9701@gmail.com">pamc9701@gmail.com</a> with the “3rd Wednesday Book Group” in the subject line.</p> <p> </p> <p><strong>Please note:…\nhttps://www.missoulapubliclibrary.org/program-calendar/3rd-wednesday-book-group/
+URL:https://www.missoulapubliclibrary.org/program-calendar/3rd-wednesday-book-group/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: 3rd Wednesday Book Group
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6f42368e300a@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Middle School Writers’ Group
+LOCATION:Art Box\, Downtown Missoula
+DESCRIPTION:<p class="p1">For writers and would-be writers ages 12-14. We share our original stories\, poems\, novels\; give and receive feedback\; and do fun writing activities. It’s all about creation and imagination!</p> <p> </p> <p>Those interested in joining should email Dana at <a class="mail-link"…\nhttps://www.missoulapubliclibrary.org/program-calendar/middle-school-writers-group/
+URL:https://www.missoulapubliclibrary.org/program-calendar/middle-school-writers-group/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Middle School Writers’ Group
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:312cb7ee44d1@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Preschool STEM Building
+LOCATION:Families First Classroom\, Downtown Missoula
+DESCRIPTION:<p><em><strong>Families First<br /> </strong></em></p> <p> </p> <p>Discover the magic of huge blue blocks\, felt tiles\, STEM play activities and magna tiles. Kids can visit anytime between 11 AM – 2 PM every Wednesday to build and dream up giant creations all while learning about STEM education in…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-stem-building/
+URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-stem-building/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Preschool STEM Building
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7712310b8c2c@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Stories and Games for Diverse Abilities
+LOCATION:Art Box\, Downtown Missoula
+DESCRIPTION:<p>Teens and adults with cognitive\, physical\, or other disabilities are welcome to join a fun hour of stories\, games\, and light-hearted conversation and connection. Stories and games led by Dana McMurray. Please email your questions to <a…\nhttps://www.missoulapubliclibrary.org/program-calendar/story-time-for-diverse-abilities-182/
+URL:https://www.missoulapubliclibrary.org/program-calendar/story-time-for-diverse-abilities-182/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Stories and Games for Diverse Abilities
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:46289d41afe9@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Exploring Music Making with Garageband Software
+LOCATION:MCAT\, Downtown Missoula
+DESCRIPTION:<p>Computers\, software and keyboards for a group exploration of music-making using the popular Apple software Garageband. Participation is limited to four people each session. Registration is encouraged but not required. To learn more and register go to www.mcat.org.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/exploring-music-making-with-garageband-software/
+URL:https://www.missoulapubliclibrary.org/program-calendar/exploring-music-making-with-garageband-software/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Exploring Music Making with Garageband Software
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c183293b692c@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Missoula Well-Being Concert
+LOCATION:Level One\, Missoula
+DESCRIPTION:<p><a href="https://www.missoulacrescendoclub.com/" target="_blank" rel="noopener">Missoula Crescendo Club</a> and Missoula Public Library invite you to A Well-Being Concert. This free\, family-friendly event offers a unique opportunity to slow down\, reconnect\, and experience the restorative power…\nhttps://www.missoulapubliclibrary.org/program-calendar/missoula-well-being-concert/
+URL:https://www.missoulapubliclibrary.org/program-calendar/missoula-well-being-concert/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Missoula Well-Being Concert
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9f212ea51c9e@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Teen Library Community
+LOCATION:Art Box\, Downtown Missoula
+DESCRIPTION:<p class="x_editor-paragraph" data-olk-copy-source="MessageBody">Make your voice heard! TLC is a core group of teens\, grades 7-12. TLC members help decide the library’s teen services\, meet new friends\, and gain volunteer hours in service to the library and greater Missoula community. Help make…\nhttps://www.missoulapubliclibrary.org/program-calendar/teen-library-community/
+URL:https://www.missoulapubliclibrary.org/program-calendar/teen-library-community/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Teen Library Community
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:90921992e1ed@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261120T020000Z
+DTEND:20261120T040000Z
+SUMMARY:Theatre Night w/the DHC
+LOCATION:Dennison Theatre\, UM Campus
+DESCRIPTION:Join the DHC for a night of theatre and fun!\nhttps://grizhub.umt.edu/engage/event/12764353
+URL:https://grizhub.umt.edu/engage/event/12764353
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Theatre Night w/the DHC
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8e99f332ad99@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Comedy! Lagers & Laughs: Travis Sherer & Cara Rosellini!
-LOCATION:Pinnacle Beerworks\, Wenatchee
-DESCRIPTION:$29 Our first show at Pinnacle Beerworks is an amazing lineup with two headliners: Travis Sherer and Cara RoselliniAbout this EventCozy Comedy Co-Founder\, award-winning writer\, & hilarious local comedian T\nhttps://happeningnext.com/event/comedy-lagers-andamp-laughs-travis-sherer-andamp-cara-rosellini-eid1ef0l7x5fh9r
-URL:https://happeningnext.com/event/comedy-lagers-andamp-laughs-travis-sherer-andamp-cara-rosellini-eid1ef0l7x5fh9r
+SUMMARY:Funksgiving 12 at Wilma Theatre Missoula
+LOCATION:Wilma Theatre Missoula\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/funksgiving-12-at-wilma-theatre-missoula/2400030368989734
+URL:https://allevents.in/missoula/funksgiving-12-at-wilma-theatre-missoula/2400030368989734
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Comedy! Lagers & Laughs: Travis Sherer & Cara Rosellini!
+DESCRIPTION:Get tickets: Funksgiving 12 at Wilma Theatre Missoula
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7a662514ec26@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261121T000000Z
-DTEND:20261121T030000Z
-SUMMARY:Live Music W/ Kevin Jones
-LOCATION:Goose Ridge: Leavenworth Tasting Room\, Leavenworth
-DESCRIPTION:Come enjoy a performance from the talented Kevin Jones while you sip wine and cider! . Kevin Jones is a multi-instrumentalist\, producer\, and singer/songwriter He performs solo\, duo\, trio\, and with The Kevin Jones Band and sits in with some of the finest musicians in the world today. Kevin is a…\nhttps://www.gooseridge.com/leavenworth/
-URL:https://www.gooseridge.com/leavenworth/
+UID:94362653b2cc@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Funksgiving 12 ft. Special Guest Revel Day w/ Desperate Electric
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/funksgiving-12-ft-special-guest-revel-day-w-desperate-electric/210001224960630
+URL:https://allevents.in/missoula/funksgiving-12-ft-special-guest-revel-day-w-desperate-electric/210001224960630
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Live Music W/ Kevin Jones
+DESCRIPTION:Get tickets: Funksgiving 12 ft. Special Guest Revel Day w/ Desperate Electric
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f4a989b7b440@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:230cc853e984@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Watercolor Painting Collaborative @ MPL
+LOCATION:Cooper Room\, Downtown Missoula
+DESCRIPTION:<p>Join each week as watercolor enthusiasts\, from beginners to advanced painters\, gather in the Cooper Room on Level Four (12-2 PM) of the library. This program is open to adults ages 18 and older. There is no fee or registration. Participants need to bring their own watercolor paper\, paints\,…\nhttps://www.missoulapubliclibrary.org/program-calendar/watercolor-painting-collaborative-mpl/
+URL:https://www.missoulapubliclibrary.org/program-calendar/watercolor-painting-collaborative-mpl/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Watercolor Painting Collaborative @ MPL
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f46480263ad6@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Yarns @ MPL
+LOCATION:Art Box\, Downtown Missoula
+DESCRIPTION:<p>Calling all knitters and crocheters! Bring your latest project to the Blackfoot Board Room on Level Four on Fridays at noon to end your week with some crafty fun.</p> <p> </p> <p><strong>Please note: Yarns will be in the Art Box on 10/30.</strong></p>\nhttps://www.missoulapubliclibrary.org/program-calendar/yarns-mpl/
+URL:https://www.missoulapubliclibrary.org/program-calendar/yarns-mpl/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Yarns @ MPL
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f647726e8e4b@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Young Adult Writers’ Group
+LOCATION:Art Box\, Downtown Missoula
+DESCRIPTION:<p class="p1">For writers and aspiring writers ages 16-19. We share our work aloud–poems\, stories\, songs\, rants\, novels–and give and receive respectful feedback. All genres\, tones\, styles welcome. We laugh\, we shiver\, we cringe\, we swoon – we ENJOY WORDS!! Members will meet live (with a Zoom…\nhttps://www.missoulapubliclibrary.org/program-calendar/young-adult-writers-group/
+URL:https://www.missoulapubliclibrary.org/program-calendar/young-adult-writers-group/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Young Adult Writers’ Group
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f26b92595fb@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART:20261121T020000Z
 DTEND:20261121T040000Z
-SUMMARY:Jen Howard @ Union Hill Cider Co. Amphitheater
-LOCATION:Union Hill Cider Co. Amphitheater\, East Wenatchee
-DESCRIPTION:Jen Howard at Union Hill Cider Co. Amphitheater at 2026-11-20T18:00:00-0800\nhttp://www.songkick.com/concerts/43300916-jen-howard-at-union-hill-cider-co-amphitheater?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/concerts/43300916-jen-howard-at-union-hill-cider-co-amphitheater?utm_medium=organic&utm_source=microformat
+SUMMARY:University of Montana Volleyball at Montana State
+LOCATION:Bozeman\, UM Campus
+DESCRIPTION:University of Montana Volleyball at Montana State Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference\nhttps://admin.gogriz.com/calendar.aspx?game_id=6640&amp\;sport_id=17
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6640&amp;sport_id=17
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Jen Howard @ Union Hill Cider Co. Amphitheater
+DESCRIPTION:Get tickets: University of Montana Volleyball at Montana State
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:75ce7939e7e6@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:fca578693fb2@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261121T023000Z
+DTEND:20261121T050000Z
+SUMMARY:Griz Hockey vs. Montana Tech (Colin Snodgrass Scholarship Game)
+LOCATION:Glacier Ice Rink\, UM Campus
+DESCRIPTION:Griz Hockey takes on instate rival Montana Tech. During this game they will be raising funds in honor of former Griz Hockey player Colin Snodgrass to build up scholarships to support student athletes. Game Start: 7:30 PM Ticket Link: https://www.grizhockey.com/game-15-montana-tech\nhttps://grizhub.umt.edu/engage/event/12511999
+URL:https://grizhub.umt.edu/engage/event/12511999
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Griz Hockey vs. Montana Tech (Colin Snodgrass Scholarship Game)
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4d85c0048186@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Laugh Riot 2026 with Andy Woodhull and Jody Carrol
-LOCATION:Wenatchee Convention Center\, Wenatchee
-DESCRIPTION:$31 BI Annual stand up comedy event in Wenatchee\, WA . 26 years strong!About this Event https://cdn-az.allevents.in/events2/banners/3c6cc630-dd80-11f1-b5f0-afb87e29c9d2-rimg-w1200-h714-dc080808-gmir.jpg An\nhttps://happeningnext.com/event/laugh-riot-2026-with-andy-woodhull-and-jody-carrol-eid1ef0kwckbuoa
-URL:https://happeningnext.com/event/laugh-riot-2026-with-andy-woodhull-and-jody-carrol-eid1ef0kwckbuoa
+SUMMARY:Cat Griz (MSU vs UM) Game Day at the Library
+LOCATION:Cooper Room A\, Downtown Missoula
+DESCRIPTION:<p><span data-contrast="auto">Join the library on Level 4 to watch the Cat Griz game! </span><span data-ccp-props="{"201341983":0\,"335559739":0\,"335559740":240}"> </span></p>\nhttps://www.missoulapubliclibrary.org/program-calendar/cat-griz-msu-vs-um-game-day-at-the-library/
+URL:https://www.missoulapubliclibrary.org/program-calendar/cat-griz-msu-vs-um-game-day-at-the-library/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Laugh Riot 2026 with Andy Woodhull and Jody Carrol
+DESCRIPTION:Get tickets: Cat Griz (MSU vs UM) Game Day at the Library
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1b15e5e6cfda@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:345aa07db476@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Saturday\, November 21st: Elvis Presley & Patsy Cline Tribute Show
-LOCATION:One: Special Event Venue\, Quincy
-DESCRIPTION:$23 Get ready to rock and swoon with the ultimate Elvis and Patsy Cline tribute show that’ll take you back in time!About this EventSaturday\, November 21stEverett Dean Productions PresentsElvis Presley & Pats\nhttps://happeningnext.com/event/saturday-november-21st-elvis-presley-andamp-patsy-cline-tribute-show-eid1ef0l3a5msqa
-URL:https://happeningnext.com/event/saturday-november-21st-elvis-presley-andamp-patsy-cline-tribute-show-eid1ef0l3a5msqa
+SUMMARY:MCAT Tour & Training
+LOCATION:MCAT\, Downtown Missoula
+DESCRIPTION:<p><em>MCAT</em></p> <p> </p> <p>Learn about all the media resources MCAT offers for public use. The tour includes the studio\, computer editing\, podcast rooms and cameras for check-out. For more information\, or to arrange a custom tour for groups\, call MCAT media instructors at (406)542-6228.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
+URL:https://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Saturday\, November 21st: Elvis Presley & Patsy Cline Tribute Show
+DESCRIPTION:Get tickets: MCAT Tour & Training
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5782e30cdd03@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:2027998ccd04@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:The Basics of Making Earrings
+LOCATION:MakerSpace\, Downtown Missoula
+DESCRIPTION:<p>Learn the basics of earring making in this beginner-friendly workshop and leave with a handcrafted pair of earrings for yourself or a loved one. You’ll learn fundamental jewelry-making techniques while creating your own unique design from a selection of beads and findings. No experience is…\nhttps://www.missoulapubliclibrary.org/program-calendar/the-basics-of-making-earrings/
+URL:https://www.missoulapubliclibrary.org/program-calendar/the-basics-of-making-earrings/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: The Basics of Making Earrings
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:457c12ed3c32@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Young Kids Dance Party
+LOCATION:MCAT\, Downtown Missoula
+DESCRIPTION:<p><em><strong>MCAT</strong></em></p> <p> </p> <p>MCAT offers a disco dance opportunity for kids\, caregivers and parents every Saturday from 11:00 AM to 11:45 AM. Stop by the MCAT studio in the southeast Corner of Level One after <a…\nhttps://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
+URL:https://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Young Kids Dance Party
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:16f0e2b7f3fb@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+SUMMARY:University of Montana Football at Montana State - 125th Brawl of the Wild
+LOCATION:Bozeman\, UM Campus
+DESCRIPTION:University of Montana Football at Montana State - 125th Brawl of the Wild TV: Scripps Sports Radio: Grizzly Sports Radio Network Streaming Video: https://plus.espn.com/ Streaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1039/content/umt:allaccess-Live-1150 Tickets:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=5262&amp\;sport_id=1
+URL:https://admin.gogriz.com/calendar.aspx?game_id=5262&amp;sport_id=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Football at Montana State - 125th Brawl of the Wild
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abf9e9a389d3@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261122T030000Z
+DTEND:20261122T050000Z
+SUMMARY:The Brothers Comatose @ The Wilma
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:The Brothers Comatose and Miller Campbell at The Wilma at 2026-11-21T20:00:00-0700\nhttp://www.songkick.com/concerts/43270988-brothers-comatose-at-wilma?utm_medium=organic&utm_source=microformat
+URL:http://www.songkick.com/concerts/43270988-brothers-comatose-at-wilma?utm_medium=organic&utm_source=microformat
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: The Brothers Comatose @ The Wilma
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f53a33aac6f6@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:Sunday\, November 22nd: Elvis Presley & Loretta Lynn Tribute Show
-LOCATION:One: Special Event Venue\, Quincy
-DESCRIPTION:$23 Get ready to rock and swoon with the ultimate Elvis and Patsy Cline tribute show that’ll take you back in time!About this EventSunday\, November 22ndEverett Dean Productions PresentsElvis Presley & Lorett\nhttps://happeningnext.com/event/sunday-november-22nd-elvis-presley-andamp-loretta-lynn-tribute-show-eid1ef0l3a5t7na
-URL:https://happeningnext.com/event/sunday-november-22nd-elvis-presley-andamp-loretta-lynn-tribute-show-eid1ef0l3a5t7na
+SUMMARY:Montana State-Northern Skylights at Montana Lady Grizzlies Womens Basketball
+LOCATION:Dahlberg Arena - Adams Event Center\, UM Campus
+DESCRIPTION:📍 Venue: Dahlberg Arena - Adams Event Center 🏠 Address: 32 Campus Drive\, Missoula\, MT 59812 🌆 City: Missoula 📍 Location: 46.8606\, -113.982✨ Discover the extraordinary at Montana State-Northern Skylights at Montana Lady Grizzlies Womens Basketball\nhttps://allevents.in/missoula/montana-state-northern-skylights-at-montana-lady-grizzlies-womens-basketball/3200030625990327
+URL:https://allevents.in/missoula/montana-state-northern-skylights-at-montana-lady-grizzlies-womens-basketball/3200030625990327
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Sunday\, November 22nd: Elvis Presley & Loretta Lynn Tribute Show
+DESCRIPTION:Get tickets: Montana State-Northern Skylights at Montana Lady Grizzlies Womens Basketball
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9357644cf053@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261123T020000Z
-DTEND:20261123T040000Z
-SUMMARY:Michel @ Wenatchee Convention Center
-LOCATION:Wenatchee Convention Center\, Wenatchee
-DESCRIPTION:Michel at Wenatchee Convention Center at 2026-11-22T18:00:00-0800\nhttp://www.songkick.com/concerts/43470047-michel-at-wenatchee-convention-center?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/concerts/43470047-michel-at-wenatchee-convention-center?utm_medium=organic&utm_source=microformat
+UID:c32a63cbb59c@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:University of Montana Women's Basketball vs MSU Northern
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs MSU Northern TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6654&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6654&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Michel @ Wenatchee Convention Center
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs MSU Northern
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:feb50ad53864@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261126T170000Z
-DTEND:20261126T190000Z
-SUMMARY:Fowl Play 5k Turkey Trot!
-LOCATION:Front Street Park Gazebo\, Leavenworth
-DESCRIPTION:A Thanksgiving fun run starting at Front Street\, looping around the river trails\, and finishing at the gazebo! All proceeds go to the Cascade High School cross country team.\nhttps://runsignup.com/Race/WA/Leavenworth/FowlPlay5K
-URL:https://runsignup.com/Race/WA/Leavenworth/FowlPlay5K
+UID:c88e8df49534@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Art with a Purpose
+LOCATION:Families First Classroom\, Downtown Missoula
+DESCRIPTION:<p><em><strong>Families First</strong><br /> </em></p> <p> </p> <p>Art with a Purpose is a program that allows children the ability to get creative while serving our community! We also feature fun and educational activities that promote our vision of imaginative & dramatic play. Drop by our…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
+URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Fowl Play 5k Turkey Trot!
+DESCRIPTION:Get tickets: Art with a Purpose
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:170aeb24326b@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20270308
-SUMMARY:Wenatchee Wild vs. Kelowna Rockets
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:$22 \nhttps://happeningnext.com/event/wenatchee-wild-vs-kelowna-rockets-eid13twixk2lak
-URL:https://happeningnext.com/event/wenatchee-wild-vs-kelowna-rockets-eid13twixk2lak
+UID:439ac1b428ee@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:The Nutcracker: Magical Christmas Ballet
+LOCATION:Dennison Theatre\, UM Campus
+DESCRIPTION:https://happeningnext.com/event/the-nutcracker-magical-christmas-ballet-eid13twlepin6f
+URL:https://happeningnext.com/event/the-nutcracker-magical-christmas-ballet-eid13twlepin6f
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Wenatchee Wild vs. Kelowna Rockets
+DESCRIPTION:Get tickets: The Nutcracker: Magical Christmas Ballet
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2546eecce734@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261128T000000Z
-DTEND:20261128T030000Z
-SUMMARY:Live Music w/ Seth Garrido
-LOCATION:Goose Ridge: Leavenworth Tasting Room\, Leavenworth
-DESCRIPTION:A local favorite\, steeped in the tradition of heartfelt country songwriting\, Seth Garrido has shaken down that history and gathered a collection of songs that speak honestly on love’s emotional spectrum. His genuine connection with his audience will have you smiling and singing along.\nhttps://www.gooseridge.com/leavenworth/
-URL:https://www.gooseridge.com/leavenworth/
+UID:5fb49a02eb5a@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261125
+SUMMARY:University of Montana Volleyball vs Big Sky Conference Tournament
+LOCATION:Flagstaff\, UM Campus
+DESCRIPTION:University of Montana Volleyball vs Big Sky Conference Tournament Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference\nhttps://admin.gogriz.com/calendar.aspx?game_id=6641&amp\;sport_id=17
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6641&amp;sport_id=17
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Live Music w/ Seth Garrido
+DESCRIPTION:Get tickets: University of Montana Volleyball vs Big Sky Conference Tournament
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7446986ac495@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:df7cd3edac47@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261124T020000Z
+DTEND:20261124T040000Z
+SUMMARY:University of Montana Men's Basketball vs Carroll College
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Carroll College TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6743&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6743&amp;sport_id=3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Carroll College
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:108c1acc28f2@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Infant to 3-Year-Old Playgroup
+LOCATION:Imaginarium\, Downtown Missoula
+DESCRIPTION:<p><em><strong>Families First</strong></em></p> <p> </p> <p>Families First and the Missoula Public Library host a play group for infants to three-year-olds. Activities focus on early childhood development\, play and the importance of community.</p> <p> </p> <p><span…\nhttps://www.missoulapubliclibrary.org/program-calendar/infant-to-3-year-old-playgroup/
+URL:https://www.missoulapubliclibrary.org/program-calendar/infant-to-3-year-old-playgroup/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Infant to 3-Year-Old Playgroup
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b30d3452ac15@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261125T020000Z
+DTEND:20261125T040000Z
+SUMMARY:University of Montana Women's Basketball vs Carroll
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Carroll TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6655&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6655&amp;sport_id=10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Carroll
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:068ac474195b@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Middle School Writers’ Group
+LOCATION:Art Box\, Downtown Missoula
+DESCRIPTION:<p class="p1">For writers and would-be writers ages 12-14. We share our original stories\, poems\, novels\; give and receive feedback\; and do fun writing activities. It’s all about creation and imagination!</p> <p> </p> <p>Those interested in joining should email Dana at <a class="mail-link"…\nhttps://www.missoulapubliclibrary.org/program-calendar/middle-school-writers-group/
+URL:https://www.missoulapubliclibrary.org/program-calendar/middle-school-writers-group/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Middle School Writers’ Group
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bec133351827@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Preschool STEM Building
+LOCATION:Families First Classroom\, Downtown Missoula
+DESCRIPTION:<p><em><strong>Families First<br /> </strong></em></p> <p> </p> <p>Discover the magic of huge blue blocks\, felt tiles\, STEM play activities and magna tiles. Kids can visit anytime between 11 AM – 2 PM every Wednesday to build and dream up giant creations all while learning about STEM education in…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-stem-building/
+URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-stem-building/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Preschool STEM Building
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2eca4f23e1@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Wenatchee Wild vs. Penticton Vees
-LOCATION:Town Toyota Center - Wenatchee\, Wenatchee
-DESCRIPTION:Nearby AttractionsWenatchee Wild has 53 upcoming events.Penticton Vees has 25 upcoming events.\nhttps://allevents.in/wenatchee/wenatchee-wild-vs-penticton-vees/210001951903016
-URL:https://allevents.in/wenatchee/wenatchee-wild-vs-penticton-vees/210001951903016
+SUMMARY:MCAT Tour & Training
+LOCATION:MCAT\, Downtown Missoula
+DESCRIPTION:<p><em>MCAT</em></p> <p> </p> <p>Learn about all the media resources MCAT offers for public use. The tour includes the studio\, computer editing\, podcast rooms and cameras for check-out. For more information\, or to arrange a custom tour for groups\, call MCAT media instructors at (406)542-6228.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
+URL:https://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Wenatchee Wild vs. Penticton Vees
+DESCRIPTION:Get tickets: MCAT Tour & Training
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:54f1760ecffc@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261128T210000Z
-DTEND:20261128T210000Z
-SUMMARY:Rachael Lundin Book Signing
-LOCATION:A Book for All Seasons\, Wenatchee
-DESCRIPTION:Rachael Lundin signs\, Music of the Mermaids\, a middle school story of thirteen-year-old Dakota Geske who has until sunrise to return a kidnapped merchild and stop a war between two worlds.\nhttps://abookforallseasons.com/event/2026-11-28/music-mermaids-book-signing
-URL:https://abookforallseasons.com/event/2026-11-28/music-mermaids-book-signing
+UID:0a46e8a655ee@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Young Kids Dance Party
+LOCATION:MCAT\, Downtown Missoula
+DESCRIPTION:<p><em><strong>MCAT</strong></em></p> <p> </p> <p>MCAT offers a disco dance opportunity for kids\, caregivers and parents every Saturday from 11:00 AM to 11:45 AM. Stop by the MCAT studio in the southeast Corner of Level One after <a…\nhttps://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
+URL:https://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Rachael Lundin Book Signing
+DESCRIPTION:Get tickets: Young Kids Dance Party
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8823ca24a274@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261129T230000Z
-DTEND:20261130T020000Z
-SUMMARY:Live Music w/ Chris Anderson
-LOCATION:Goose Ridge: Leavenworth Tasting Room\, Leavenworth
-DESCRIPTION:First known professionally as “The Singing Busboy” of Jebino’s Restaurant in his hometown of Eatonville\, WA\, Chris has been performing seamless interpretations of classic songs from the 40’s\, 50’s\, and early 60’s for over a decade. Chris wasn’t always an “old soul” when it came to his musical…\nhttps://www.gooseridge.com/leavenworth/
-URL:https://www.gooseridge.com/leavenworth/
+UID:c48b3e826c2e@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Art with a Purpose
+LOCATION:Families First Classroom\, Downtown Missoula
+DESCRIPTION:<p><em><strong>Families First</strong><br /> </em></p> <p> </p> <p>Art with a Purpose is a program that allows children the ability to get creative while serving our community! We also feature fun and educational activities that promote our vision of imaginative & dramatic play. Drop by our…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
+URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Live Music w/ Chris Anderson
+DESCRIPTION:Get tickets: Art with a Purpose
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f97b3076b4eb@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261202T010000Z
-DTEND:20261202T023000Z
-SUMMARY:Poetry Reading
-LOCATION:Water From Wine\, Leavenworth
-DESCRIPTION:Join local poets Cynthia Neely and Susan Blair and sip a glass of wine as they read from their recently published books\, I’ll Dress Myself in Wilderness and You\, and Haunting You.\nhttps://abookforallseasons.com/event/2026-12-01/poetry-reading
-URL:https://abookforallseasons.com/event/2026-12-01/poetry-reading
+UID:b5431c2612ca@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Clark Fork Coalition Holiday Party at The Wilma - Missoula\, MT
+LOCATION:131 Higgins Ave\, Missoula\, MT\, United States\, Montana 59802\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/clark-fork-coalition-holiday-party-at-the-wilma-missoula-mt/200031023435004
+URL:https://allevents.in/missoula/clark-fork-coalition-holiday-party-at-the-wilma-missoula-mt/200031023435004
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Poetry Reading
+DESCRIPTION:Get tickets: Clark Fork Coalition Holiday Party at The Wilma - Missoula\, MT
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eb0d8974d4fa@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261204T030000Z
-DTEND:20261204T060000Z
-SUMMARY:Singer Songwriter Storyteller: December
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Wenatchee
-DESCRIPTION:Singer\, Songwriter\, Storyteller Eric Link\, Beth Whitney\, Erin McNamee Find more info at: https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EwA2c2AF\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EwA2c2AF
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EwA2c2AF
+UID:c59c38762f87@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261204T020000Z
+DTEND:20261204T040000Z
+SUMMARY:University of Montana Women's Basketball vs Northern Arizona
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Northern Arizona TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6673&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6673&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Singer Songwriter Storyteller: December
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Northern Arizona
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9477175562bc@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:92519df02eb0@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Little Black Dress Party
-LOCATION:Wenatchee Convention Center\, North Wenatchee Avenue\, Wenatchee\, WA\, USA\, Wenatchee
-DESCRIPTION:$49.87 \nhttps://allevents.in/wenatchee/little-black-dress-party/100002002660704076
-URL:https://allevents.in/wenatchee/little-black-dress-party/100002002660704076
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Little Black Dress Party
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9b23e03aca0d@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:The Fab Lads Now & Then: a Complete Beatles Experience Concert
-LOCATION:One: Special Event Venue\, Quincy
-DESCRIPTION:$34 \nhttps://happeningnext.com/event/the-fab-lads-now-andamp-then-a-complete-beatles-experience-concert-eid1ef0l3a6qrsa
-URL:https://happeningnext.com/event/the-fab-lads-now-andamp-then-a-complete-beatles-experience-concert-eid1ef0l3a6qrsa
+SUMMARY:Little Red Truck's European Christmas Market Friday 4-8 and Saturday 10-4
+LOCATION:Missoula Fairgrounds\, Missoula
+DESCRIPTION:Friday December 4th 4pm-8pm Saturday December 5th 10am-4pm Little Red Truck's 12th Annual EUROPEAN Style CHRISTMAS Market at the historic Missoula County Fairgrounds! The TWO 2-Story Barns PLUS the Floriculture building AND the Historic Plaza AND the Hom\nhttps://allevents.in/missoula/little-red-trucks-european-christmas-market-friday-4-8-and-saturday-10-4/200030338074345
+URL:https://allevents.in/missoula/little-red-trucks-european-christmas-market-friday-4-8-and-saturday-10-4/200030338074345
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: The Fab Lads Now & Then: a Complete Beatles Experience Concert
+DESCRIPTION:Get tickets: Little Red Truck's European Christmas Market Friday 4-8 and Saturday 10-4
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b2a8d890a217@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261205T170000Z
-DTEND:20261205T213000Z
-SUMMARY:The Met Opera: Samson et Dalila – Saint-Saëns
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Come experience the Metropolitan Opera\, live-streamed in HD in the beautiful Snowy Owl Theatre\, less than a 10 minute drive from downtown Leavenworth! Pastries and mimosas available for purchase. Saint-Saëns’s operatic take on the classic biblical story follows Samson\, the hero of legendary…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq84f2AB
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq84f2AB
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: The Met Opera: Samson et Dalila – Saint-Saëns
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:62a6b6053483@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261205T210000Z
-DTEND:20261205T230000Z
-SUMMARY:Book Signing @ A Book for All Seasons
-LOCATION:A Book for All Seasons\, Leavenworth
-DESCRIPTION:Morgan Lockhart signs her newest novel\, A Curse for Christmas Past. For fans of Good Spirits\, Hallmark holiday movies\, and general witchy shenanigans\, this charming holiday romance follows a woman with a curse and the handsome witch she reluctantly enlists to help her break it.\nhttps://abookforallseasons.com/
-URL:https://abookforallseasons.com/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Book Signing @ A Book for All Seasons
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d603a4621217@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:609bade40bea@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART:20261206T030000Z
-DTEND:20261206T060000Z
-SUMMARY:A John Prine Christmas with the Jenner Fox Band
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Wenatchee
-DESCRIPTION:A John Prine Christmas Ever wonder what John Prine has to do with Christmas? Ever wished the beloved songwriter had more to do with sleigh bells\, eggnog\, and Old Saint Nick. Well\, in 1994 Prine released his 11th LP titled\, “A John Prine Christmas.” The critics didn’t acclaim it much\, but with…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000F6vfh2AB
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000F6vfh2AB
+DTEND:20261206T050000Z
+SUMMARY:Kip Moore @ The Wilma
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:Kip Moore and Alyssa Flaherty at The Wilma at 2026-12-05T20:00:00-0700\nhttp://www.songkick.com/concerts/43407852-kip-moore-at-wilma?utm_medium=organic&utm_source=microformat
+URL:http://www.songkick.com/concerts/43407852-kip-moore-at-wilma?utm_medium=organic&utm_source=microformat
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: A John Prine Christmas with the Jenner Fox Band
+DESCRIPTION:Get tickets: Kip Moore @ The Wilma
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2e6098fc5aba@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261206T030000Z
-DTEND:20261206T043000Z
-SUMMARY:Merry Christmas from Leavenworth Concert
-LOCATION:Leavenworth Festhalle\, Leavenworth
-DESCRIPTION:Featuring all local musicians\, this FREE concert will have Glühwein and beer for sale along with light snacks. The concert will include the Leavenworth Alphorns\, Leavenworth Village Voices\, Beaver Valley Elementary School chorus and several other local groups\, plus some of our favorite local…\nhttps://leavenworth.org/event/merry-christmas-from-leavenworth-concert/
-URL:https://leavenworth.org/event/merry-christmas-from-leavenworth-concert/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Merry Christmas from Leavenworth Concert
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c1c53ca6663e@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261206T033000Z
-DTEND:20261206T053000Z
-SUMMARY:Storm Large @ Numerica Performing Arts Center
-LOCATION:Numerica Performing Arts Center\, Wenatchee
-DESCRIPTION:Storm Large at Numerica Performing Arts Center at 2026-12-05T19:30:00-0800\nhttp://www.songkick.com/concerts/43513965-storm-large-at-numerica-performing-arts-center?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/concerts/43513965-storm-large-at-numerica-performing-arts-center?utm_medium=organic&utm_source=microformat
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Storm Large @ Numerica Performing Arts Center
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f3ff2dbe43ff@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261206T230000Z
-DTEND:20261207T010000Z
-SUMMARY:A Special Visit from Italy: Meet Emanuele Fontanini
-LOCATION:Kris Kringl\, Leavenworth
-DESCRIPTION:Join us at Kris Kringl for a very special afternoon with Emanuele Fontanini\, visiting from Italy for an exclusive signing event! This is a wonderful opportunity to meet a member of the family behind one of the world’s most beloved Italian nativity collections and discover the history\, artistry\, and…\nwww.kriskringl.com
-URL:www.kriskringl.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: A Special Visit from Italy: Meet Emanuele Fontanini
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:800c7e3a0a5b@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261206T230000Z
-DTEND:20261207T010000Z
-SUMMARY:Meet Emanuele Fontanini at Kris Kringl
-LOCATION:Kris Kringl\, Leavenworth
-DESCRIPTION:Join us at Kris Kringl for a very special afternoon with Emanuele Fontanini\, visiting from Italy for an exclusive signing event! For generations\, Fontanini has been celebrated for its beautifully designed and hand-painted Italian nativities\, cherished by collectors and families around the world.…\nwww.kriskringl.com
-URL:www.kriskringl.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Meet Emanuele Fontanini at Kris Kringl
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:0d7f3d8cdab8@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261209T030000Z
+UID:c87e856b9d97@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261209T020000Z
 DTEND:20261209T040000Z
-SUMMARY:Red Barn Event: 'The Icicle Calls Us Back' Film Showing
-LOCATION:Red Barn at Wenatchee River Institute\, Leavenworth
-DESCRIPTION:Free The Icicle Calls Us Back Film Showing with Claire Seaman This event and film will be livestreamed during the event\, but will NOT be available to watch later. Livestream the event on YouTube at this link. No registration required\, but RSVP to receive email reminders and updates about this event!…\nhttps://wenatcheeriverinstitute.org/event-calendar.html/event/2026/12/08/red-barn-event-the-icicle-calls-us-back-film-showing/579659
-URL:https://wenatcheeriverinstitute.org/event-calendar.html/event/2026/12/08/red-barn-event-the-icicle-calls-us-back-film-showing/579659
+SUMMARY:University of Montana Men's Basketball vs South Dakota
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs South Dakota TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6746&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6746&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Red Barn Event: 'The Icicle Calls Us Back' Film Showing
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs South Dakota
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ba75385d7e79@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:ae899f69c887@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Backcountry Film Festival ❄️
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://happeningnext.com/event/backcountry-film-festival-eid3a0eaec80c
+URL:https://happeningnext.com/event/backcountry-film-festival-eid3a0eaec80c
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Backcountry Film Festival ❄️
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e5db3aba43f7@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Becky Robinson's Holiday Spectacular at Wilma Theatre Missoula
+LOCATION:Wilma Theatre Missoula\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/becky-robinsons-holiday-spectacular-at-wilma-theatre-missoula/2400030635777642
+URL:https://allevents.in/missoula/becky-robinsons-holiday-spectacular-at-wilma-theatre-missoula/2400030635777642
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Becky Robinson's Holiday Spectacular at Wilma Theatre Missoula
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:565efd718bde@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART:20261211T030000Z
-DTEND:20261211T060000Z
-SUMMARY:Vince Guaraldi’s A Charlie Brown Christmas: Jose Gonzales Trio
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Vince Guaraldi’s A Charlie Brown Christmas Performed live by the Jose “Juicy” Gonzales Trio At the heart of the evening is Vince Guaraldi’s iconic score\, recently named by Billboard as the #1 Greatest Holiday Album of All Time. Jose and his trio perform the soundtrack live in its entirety\, honoring…\nhttps://icicle.my.salesforce-sites.com/ticket/#/events/a0SPH00000JtO0L2AV
-URL:https://icicle.my.salesforce-sites.com/ticket/#/events/a0SPH00000JtO0L2AV
+DTEND:20261211T050000Z
+SUMMARY:Becky Robinson @ The Wilma
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:Becky Robinson at The Wilma at 2026-12-10T20:00:00-0700\nhttp://www.songkick.com/concerts/43385537-becky-robinson-at-wilma?utm_medium=organic&utm_source=microformat
+URL:http://www.songkick.com/concerts/43385537-becky-robinson-at-wilma?utm_medium=organic&utm_source=microformat
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Vince Guaraldi’s A Charlie Brown Christmas: Jose Gonzales Trio
+DESCRIPTION:Get tickets: Becky Robinson @ The Wilma
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:348aaa962767@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20270118
-SUMMARY:Wenatchee Wild vs. Seattle Thunderbirds
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:$19 \nhttps://happeningnext.com/event/wenatchee-wild-vs-seattle-thunderbirds-eid13twixk2mfd
-URL:https://happeningnext.com/event/wenatchee-wild-vs-seattle-thunderbirds-eid13twixk2mfd
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Wenatchee Wild vs. Seattle Thunderbirds
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6c00793ad2dd@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261212T030000Z
-DTEND:20261212T060000Z
-SUMMARY:Vince Guaraldi’s A Charlie Brown Christmas: Jose Gonzales Trio
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Vince Guaraldi’s A Charlie Brown Christmas Performed live by the Jose “Juicy” Gonzales Trio At the heart of the evening is Vince Guaraldi’s iconic score\, recently named by Billboard as the #1 Greatest Holiday Album of All Time. Jose and his trio perform the soundtrack live in its entirety\, honoring…\nhttps://icicle.my.salesforce-sites.com/ticket/#/events/a0SPH00000JtO0L2AV
-URL:https://icicle.my.salesforce-sites.com/ticket/#/events/a0SPH00000JtO0L2AV
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Vince Guaraldi’s A Charlie Brown Christmas: Jose Gonzales Trio
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c5f8c8233e57@wenatchee-activities
-DTSTAMP:20261113T175008Z
+UID:92d1e1dac2cc@wenatchee-activities
+DTSTAMP:20261113T184127Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:VECA Holiday Party 2026 - Wenatchee
-LOCATION:Wenatchee Convention Center\, Wenatchee
-DESCRIPTION:https://allevents.in/wenatchee/veca-holiday-party-2026-wenatchee/100002004087555828
-URL:https://allevents.in/wenatchee/veca-holiday-party-2026-wenatchee/100002004087555828
+SUMMARY:Dave Simonett
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/dave-simonett/210003664203612
+URL:https://allevents.in/missoula/dave-simonett/210003664203612
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: VECA Holiday Party 2026 - Wenatchee
+DESCRIPTION:Get tickets: Dave Simonett
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:08cb41fc8a03@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261212T220000Z
-DTEND:20261213T003000Z
-SUMMARY:Leavenworth Village Voices: Christmas in the Mountains Matinee
-LOCATION:Canyon Wren Recital Hall\, Leavenworth
-DESCRIPTION:Usher in the joy and peace of the Christmas season with Leavenworth’s own community choir for a magical winter concert at the Canyon Wren Recital Hall! Now in its 44th year of spreading Christmas joy\, the Leavenworth Village Voices presents this heartwarming and festive concert showcasing a rich…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000FKFjp2AH
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000FKFjp2AH
+UID:23601461b8bc@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261212T180000Z
+DTEND:20261212T190000Z
+SUMMARY:Teddy Bear Tea Party 1
+LOCATION:Residence Inn by Marriott\, Downtown Missoula
+DESCRIPTION:$8.00 – $12.00 Get ready for a beary magical morning at the Teddy Bear Tea Party \, hosted in the cozy lobby of the Residence Inn Downtown on Saturday\, December 12\, from 11:00 AM to 12:00 PM! Perfect for kids ages 2–10 (and their favorite stuffed friends)\, this holiday celebration is packed with fun\, giggles\, and…\nhttps://www.missouladowntown.com/event/teddy-bear-tea-party-1-2/
+URL:https://www.missouladowntown.com/event/teddy-bear-tea-party-1-2/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Leavenworth Village Voices: Christmas in the Mountains Matinee
+DESCRIPTION:Get tickets: Teddy Bear Tea Party 1
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d60c130533a5@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261213T040000Z
-DTEND:20261213T053000Z
-SUMMARY:THE JEWEL TONES Motown Christmas Concert
-LOCATION:Leavenworth Festhalle\, Leavenworth
-DESCRIPTION:The Jewel Tones are an all-female\, Motown-inspired vocal trio who perform hits by The Supremes\, The Jackson 5\, Gladys Knight & The Pips\, Stevie Wonder\, and many more. These ladies deliver sparkling personality\, stellar vocals\, fun choreography\, and a classic 1960s look. They are a sparkling homage…\nhttps://leavenworth.org/christmastown
-URL:https://leavenworth.org/christmastown
+UID:fa5c453d0a42@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261212T193000Z
+DTEND:20261212T203000Z
+SUMMARY:Teddy Bear Tea Party 2
+LOCATION:Residence Inn by Marriott\, Downtown Missoula
+DESCRIPTION:$8.00 – $12.00 Get ready for a beary magical morning at the Teddy Bear Tea Party \, hosted in the cozy lobby of the Residence Inn Downtown on Saturday\, December 12\, from 12:30 to 1:30 PM! Perfect for kids ages 2–10 (and their favorite stuffed friends)\, this holiday celebration is packed with fun\, giggles\, and…\nhttps://www.missouladowntown.com/event/teddy-bear-tea-party-2-4/
+URL:https://www.missouladowntown.com/event/teddy-bear-tea-party-2-4/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: THE JEWEL TONES Motown Christmas Concert
+DESCRIPTION:Get tickets: Teddy Bear Tea Party 2
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9a9f755b4df1@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:Calgary Hitmen at Wenatchee Wild at Town Toyota Center
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:https://allevents.in/wenatchee/calgary-hitmen-at-wenatchee-wild-at-town-toyota-center/2400030465737259
-URL:https://allevents.in/wenatchee/calgary-hitmen-at-wenatchee-wild-at-town-toyota-center/2400030465737259
+UID:a3314c02f483@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261212T210000Z
+DTEND:20261212T220000Z
+SUMMARY:Teddy Bear Tea Party 3
+LOCATION:Residence Inn by Marriott\, Downtown Missoula
+DESCRIPTION:$8.00 – $12.00 Get ready for a beary magical morning at the Teddy Bear Tea Party \, hosted in the cozy lobby of the Residence Inn Downtown on Saturday\, December 12\, from 2 to 3 PM! Perfect for kids ages 2–10 (and their favorite stuffed friends)\, this holiday celebration is packed with fun\, giggles\, and festive…\nhttps://www.missouladowntown.com/event/teddy-bear-tea-party-3-4/
+URL:https://www.missouladowntown.com/event/teddy-bear-tea-party-3-4/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Calgary Hitmen at Wenatchee Wild at Town Toyota Center
+DESCRIPTION:Get tickets: Teddy Bear Tea Party 3
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f2c5622504f3@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261218T020000Z
-DTEND:20261218T043000Z
-SUMMARY:Girls Night Out at NCW Woodshop @NCW Woodshop
-LOCATION:NCW Woodshop\, Cashmere
-DESCRIPTION:Looking for a fun night out with friends? Join our Girls’ Night Out woodworking class to create hexagon floating shelves! Assemble pre-cut pieces using glue and a brad nailer\, then enjoy a glass of wine while the glue dries. Finish by sanding and staining to match your style. No experience…\nhttps://ncwwoodshop.com/class-GNO
-URL:https://ncwwoodshop.com/class-GNO
+UID:f2ab9e4dde2c@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Missoula Holiday MADE fair
+LOCATION:Adams Center\, UM Campus
+DESCRIPTION:The Missoula Holiday MADE Fair is the largest of the MADE events\, featuring three levels of shopping and a highly curated selection of local and regional artists. This juried holiday market offers everything from affordable handmade gifts to heirloom-qua\nhttps://allevents.in/missoula/missoula-holiday-made-fair/200029489321155
+URL:https://allevents.in/missoula/missoula-holiday-made-fair/200029489321155
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Girls Night Out at NCW Woodshop @NCW Woodshop
+DESCRIPTION:Get tickets: Missoula Holiday MADE fair
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:27117a093923@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-SUMMARY:Dance To Glorify- The Nutcracker
-LOCATION:Wenatchee High School\, Wenatchee
-DESCRIPTION:$12.51 \nhttps://allevents.in/wenatchee/dance-to-glorify-the-nutcracker/100002003845804744
-URL:https://allevents.in/wenatchee/dance-to-glorify-the-nutcracker/100002003845804744
+UID:8044d4a33109@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261213T180000Z
+DTEND:20261213T190000Z
+SUMMARY:Teddy Bear Tea Party 4
+LOCATION:Residence Inn by Marriott\, Downtown Missoula
+DESCRIPTION:$8.00 – $12.00 Get ready for a beary magical morning at the Teddy Bear Tea Party \, hosted in the cozy lobby of the Residence Inn Downtown on Sunday\, December 13\, from 11:00 AM to 12:00 PM! Perfect for kids ages 2–10 (and their favorite stuffed friends)\, this holiday celebration is packed with fun\, giggles\, and…\nhttps://www.missouladowntown.com/event/teddy-bear-tea-party-4-3/
+URL:https://www.missouladowntown.com/event/teddy-bear-tea-party-4-3/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Dance To Glorify- The Nutcracker
+DESCRIPTION:Get tickets: Teddy Bear Tea Party 4
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:09375c706c7b@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:GEOFFREY CASTLE’S CELTIC CHRISTMAS ~ 20TH ANNIVERSARY TOUR
-LOCATION:Wenatchee Convention Center\, Wenatchee
-DESCRIPTION:GEOFFREY CASTLE’S CELTIC CHRISTMAS 20TH ANNIVERSARY TOUR Now a Wenatchee tradition\, the Northwest Holiday Season wouldn’t be the same without a visit from Geoffrey Castle and his cherished annual Celtic Christmas Concert! This season’s concert series feat\nhttps://allevents.in/wenatchee/geoffrey-castles-celtic-christmas-~-20th-anniversary-tour/200030995558224
-URL:https://allevents.in/wenatchee/geoffrey-castles-celtic-christmas-~-20th-anniversary-tour/200030995558224
+UID:208e78edfba8@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261213T193000Z
+DTEND:20261213T203000Z
+SUMMARY:Teddy Bear Tea Party 5
+LOCATION:Residence Inn by Marriott\, Downtown Missoula
+DESCRIPTION:$8.00 – $12.00 Get ready for a beary magical morning at the Teddy Bear Tea Party \, hosted in the cozy lobby of the Residence Inn Downtown on Sunday\, December 13\, from 12:30 to 1:30 PM! Perfect for kids ages 2–10 (and their favorite stuffed friends)\, this holiday celebration is packed with fun\, giggles\, and…\nhttps://www.missouladowntown.com/event/teddy-bear-tea-party-5-3/
+URL:https://www.missouladowntown.com/event/teddy-bear-tea-party-5-3/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: GEOFFREY CASTLE’S CELTIC CHRISTMAS ~ 20TH ANNIVERSARY TOUR
+DESCRIPTION:Get tickets: Teddy Bear Tea Party 5
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:417f1539058a@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261220T230000Z
-DTEND:20261221T013000Z
-SUMMARY:WVSO + Columbia Chorale | Heaven & Nature Sing
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Wenatchee
-DESCRIPTION:When the orchestra and chorus meet at Christmas\, the hall itself seems to join the score. Heaven and Nature Sing brings the Wenatchee Valley Symphony Orchestra and Columbia Chorale together for an evening of carols\, concert showpieces\, and the kind of communal singing that turns an audience into…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000FErAH2A1
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000FErAH2A1
+UID:f1c04d2eb234@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261213T210000Z
+DTEND:20261213T220000Z
+SUMMARY:Teddy Bear Tea Party 6
+LOCATION:Residence Inn by Marriott\, Downtown Missoula
+DESCRIPTION:$8.00 – $12.00 Get ready for a beary magical morning at the Teddy Bear Tea Party \, hosted in the cozy lobby of the Residence Inn Downtown on Sunday\, December 13\, from 2 to 3 PM! Perfect for kids ages 2–10 (and their favorite stuffed friends)\, this holiday celebration is packed with fun\, giggles\, and festive…\nhttps://www.missouladowntown.com/event/teddy-bear-tea-party-6-3/
+URL:https://www.missouladowntown.com/event/teddy-bear-tea-party-6-3/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: WVSO + Columbia Chorale | Heaven & Nature Sing
+DESCRIPTION:Get tickets: Teddy Bear Tea Party 6
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4a315f8185da@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261221T010000Z
-DTEND:20261221T023000Z
-SUMMARY:Christmas Spectactular with Manuela Horn and her Slay-belles!
-LOCATION:Leavenworth Festhalle\, Leavenworth
-DESCRIPTION:Get ready to jingle\, giggle\, and grin! Manuela Horn & The Slay Belles are bringing big laughs and holiday cheer to the stage. Fronted by international comedian Manuela Horn\, this high-energy trio combines powerhouse vocals\, playful humor\, and clever holiday parodies into one glitter-filled…\nhttps://leavenworth.org/christmastown
-URL:https://leavenworth.org/christmastown
+UID:aeb700e070d5@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261219T020000Z
+DTEND:20261219T040000Z
+SUMMARY:University of Montana Men's Basketball vs Pepperdine
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Pepperdine TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6748&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6748&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Christmas Spectactular with Manuela Horn and her Slay-belles!
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Pepperdine
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d4e4ffd918ad@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261223T010000Z
-DTEND:20261223T023000Z
-SUMMARY:Christmas Spectactular with Manuela Horn and her Slay-belles!
-LOCATION:Leavenworth Festhalle\, Leavenworth
-DESCRIPTION:Get ready to jingle\, giggle\, and grin! Manuela Horn & The Slay Belles are bringing big laughs and holiday cheer to the stage. Fronted by international comedian Manuela Horn\, this high-energy trio combines powerhouse vocals\, playful humor\, and clever holiday parodies into one glitter-filled…\nhttps://leavenworth.org/christmastown
-URL:https://leavenworth.org/christmastown
+UID:1a74fe1213ef@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261219T210000Z
+DTEND:20261219T230000Z
+SUMMARY:University of Montana Women's Basketball vs South Dakota
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs South Dakota TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6659&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6659&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Christmas Spectactular with Manuela Horn and her Slay-belles!
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs South Dakota
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8fd986fb5dbd@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:Holiday Cookie Decorating @ The Cove
-LOCATION:The Cove Wine & Games\, Chelan
-DESCRIPTION:$23 Join us at The Cove for another holiday cookie decorating night!About this EventJoin us at The Cove on Wednesday\, December 23rd from 5 - 7 PM for a Holiday Cookie Decorating Night!\nhttps://happeningnext.com/event/holiday-cookie-decorating-the-cove-eid1ef0l8m2k54r
-URL:https://happeningnext.com/event/holiday-cookie-decorating-the-cove-eid1ef0l8m2k54r
+UID:d1a9b4018ddd@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261222T020000Z
+DTEND:20261222T040000Z
+SUMMARY:University of Montana Men's Basketball vs Providence (Mont.)
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Providence (Mont.) TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6749&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6749&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Holiday Cookie Decorating @ The Cove
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Providence (Mont.)
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bdcdb460ca97@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20261224T210000Z
-DTEND:20261224T230000Z
-SUMMARY:Photos with Santa Downtown
-LOCATION:Leavenworth Festhalle\, Leavenworth
-DESCRIPTION:Photos with Santa downtown near the Gazebo in Front Street Park. No charge! Just bring your camera\, and we will have an elf ready to take the photo!\nhttps://leavenworth.org/christmastown
-URL:https://leavenworth.org/christmastown
+UID:eb473f8c8675@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20270207
+SUMMARY:Candlelight: Queen vs. ABBA
+LOCATION:Missoula Children's Theatre\, Downtown Missoula
+DESCRIPTION:$29.50 \nhttps://allevents.in/missoula/candlelight-queen-vs-abba/2700030410266752
+URL:https://allevents.in/missoula/candlelight-queen-vs-abba/2700030410266752
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Photos with Santa Downtown
+DESCRIPTION:Get tickets: Candlelight: Queen vs. ABBA
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:68857913c80b@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270328
-SUMMARY:Everett Silvertips at Wenatchee Wild at Town Toyota Center
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:https://allevents.in/wenatchee/everett-silvertips-at-wenatchee-wild-at-town-toyota-center/2400027670846527
-URL:https://allevents.in/wenatchee/everett-silvertips-at-wenatchee-wild-at-town-toyota-center/2400027670846527
+UID:96e65b80934b@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20261231T230000Z
+DTEND:20270101T010000Z
+SUMMARY:University of Montana Men's Basketball vs Northern Colorado
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Northern Colorado TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6675&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6675&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Everett Silvertips at Wenatchee Wild at Town Toyota Center
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Northern Colorado
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5d7e8ee566ac@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270101T030000Z
-DTEND:20270101T050000Z
-SUMMARY:New Year's Eve Dance feat. Wenatchee Big Band
-LOCATION:Wenatchee
-DESCRIPTION:Celebrate the New Year with the Wenatchee Big Band! We appreciate you bringing a non-refrigerated snack to share. All of our dances feature great music by local bands. Dancing is optional — you are welcome to come to enjoy the music and socialize. Tickets are $20 and available at the door the day…\nhttps://events.timely.fun/bm30tqng/event/78512731/20261231190000
-URL:https://events.timely.fun/bm30tqng/event/78512731/20261231190000
+UID:e1a1f2883de5@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270102T210000Z
+DTEND:20270102T230000Z
+SUMMARY:University of Montana Men's Basketball vs Portland State
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Portland State TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6677&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6677&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: New Year's Eve Dance feat. Wenatchee Big Band
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Portland State
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5d9d08bf8f98@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270101
+UID:059b7efdf38c@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270108T020000Z
+DTEND:20270108T040000Z
+SUMMARY:University of Montana Women's Basketball vs Weber State
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Weber State TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6678&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6678&amp;sport_id=10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Weber State
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6ef303e39dee@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270109T210000Z
+DTEND:20270109T230000Z
+SUMMARY:University of Montana Women's Basketball vs Idaho State
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Idaho State TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6681&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6681&amp;sport_id=10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Idaho State
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e75e486753b3@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270115T020000Z
+DTEND:20270115T040000Z
+SUMMARY:University of Montana Men's Basketball vs Idaho
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Idaho TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6683&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6683&amp;sport_id=3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Idaho
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:88ea8b12602c@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270116T230000Z
+DTEND:20270117T010000Z
+SUMMARY:University of Montana Men's Basketball vs Eastern Washington - N7 Game
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Eastern Washington - N7 Game TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6685&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6685&amp;sport_id=3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Eastern Washington - N7 Game
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba62424dc16@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270118T210000Z
+DTEND:20270118T230000Z
+SUMMARY:University of Montana Women's Basketball vs Utah Tech
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Utah Tech TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6686&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6686&amp;sport_id=10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Utah Tech
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870bd3d1844b@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270123T220000Z
+DTEND:20270124T000000Z
+SUMMARY:University of Montana Women's Basketball at Montana State
+LOCATION:Bozeman\, UM Campus
+DESCRIPTION:University of Montana Women's Basketball at Montana State TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6688&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6688&amp;sport_id=10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Women's Basketball at Montana State
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1d29476cf1@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270124T020000Z
+DTEND:20270124T040000Z
+SUMMARY:University of Montana Men's Basketball at Montana State
+LOCATION:Bozeman\, UM Campus
+DESCRIPTION:University of Montana Men's Basketball at Montana State TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6689&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6689&amp;sport_id=3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Men's Basketball at Montana State
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c2a29555c564@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270126T020000Z
+DTEND:20270126T040000Z
+SUMMARY:University of Montana Men's Basketball vs Southern Utah
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Southern Utah TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6690&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6690&amp;sport_id=3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Southern Utah
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:888a1b1cbab0@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
-SUMMARY:Village of Lights: Winter Karneval
-LOCATION:Front Street Gazebo & Leavenworth Festhalle\, Leavenworth
-DESCRIPTION:The Village of Lights continues! Our famous Christmas lights are on every day from approximately 6 am – 11 pm. Come j oin us this January for Leavenworth’s Winter Karneval as we honor a German tradition dating back to the thirteenth century\, commonly referred to as ‘Fasching’. You can expect to see…\nhttps://leavenworth.org/winterkarneval/
-URL:https://leavenworth.org/winterkarneval/
+SUMMARY:The Maye Masquerade Ball
+LOCATION:Missoula County Fairgrounds\, Missoula
+DESCRIPTION:$65.87 \nhttps://allevents.in/missoula/the-maye-masquerade-ball/100002003589618484
+URL:https://allevents.in/missoula/the-maye-masquerade-ball/100002003589618484
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Village of Lights: Winter Karneval
+DESCRIPTION:Get tickets: The Maye Masquerade Ball
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9911d4a138ee@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:Edmonton Oil Kings at Wenatchee Wild at Town Toyota Center
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:https://allevents.in/wenatchee/edmonton-oil-kings-at-wenatchee-wild-at-town-toyota-center/2400030467742301
-URL:https://allevents.in/wenatchee/edmonton-oil-kings-at-wenatchee-wild-at-town-toyota-center/2400030467742301
+UID:28b1c67cb9fd@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270130T230000Z
+DTEND:20270131T010000Z
+SUMMARY:University of Montana Men's Basketball vs Northern Arizona
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Northern Arizona TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6692&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6692&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Edmonton Oil Kings at Wenatchee Wild at Town Toyota Center
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Northern Arizona
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c7b6f3215460@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270108T030000Z
-DTEND:20270108T050000Z
-SUMMARY:Singer Songwriter Storyteller: January
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:First Thursday of the month concert! Alex Rasmussen\, Brittney Jean\, Nate Weakley . Acoustic instruments\, honest vocals\, and songs that stay with you long after the last note – all inside Leavenworth’s Snowy Owl Theater\, a world-class listening room that feels just like home. $25 General Admission…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Ew9kj2AB
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Ew9kj2AB
+UID:a2d927526611@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270205T020000Z
+DTEND:20270205T040000Z
+SUMMARY:University of Montana Women's Basketball vs Portland State
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Portland State TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6695&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6695&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Singer Songwriter Storyteller: January
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Portland State
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6cb80a08448b@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-SUMMARY:Dancing with the Wenatchee Stars
-LOCATION:Numerica Performing Arts Center\, Wenatchee
-DESCRIPTION:https://allevents.in/wenatchee/dancing-with-the-wenatchee-stars/2300030574920333
-URL:https://allevents.in/wenatchee/dancing-with-the-wenatchee-stars/2300030574920333
+UID:8c3fa7b6b344@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270206T210000Z
+DTEND:20270206T230000Z
+SUMMARY:University of Montana Women's Basketball vs Northern Colorado
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Northern Colorado TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6697&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6697&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Dancing with the Wenatchee Stars
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Northern Colorado
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:455c4c8010e4@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270123
-SUMMARY:Joel Gibson Jr. @ Lake Chelan Winterfest - Full Band
-LOCATION:Lake Chelan Winterfest\, Chelan
-DESCRIPTION:Tickets on sale soon! 🎸 JOEL GIBSON JR. | FULL BAND Join Nashville Recording Artist and 27-time award winner Joel Gibson Jr. for an unforgettable night of live music! Known for his distinctive Eclectic Outlaw style\, Joel delivers a dynamic mix of count\nhttps://allevents.in/chelan/joel-gibson-jr-lake-chelan-winterfest-full-band/200030973655817
-URL:https://allevents.in/chelan/joel-gibson-jr-lake-chelan-winterfest-full-band/200030973655817
+UID:161d8df01522@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270212T020000Z
+DTEND:20270212T040000Z
+SUMMARY:University of Montana Women's Basketball vs Eastern Washington
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Eastern Washington TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6699&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6699&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Joel Gibson Jr. @ Lake Chelan Winterfest - Full Band
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Eastern Washington
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:442db838c603@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270123T180000Z
-DTEND:20270123T220000Z
-SUMMARY:The Met Opera: La Fanciulla del West – Puccini
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Come experience the Metropolitan Opera\, live-streamed in HD in the beautiful Snowy Owl Theatre\, less than a 10 minute drive from downtown Leavenworth! Pastries and mimosas available for purchase. Set during the California Gold Rush\, Minnie\, the gun-slinging tavern owner with a heart of gold\, finds…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq7rl2AB
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq7rl2AB
+UID:d5d061862482@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270213T210000Z
+DTEND:20270213T230000Z
+SUMMARY:University of Montana Women's Basketball vs Idaho
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Idaho TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6701&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6701&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: The Met Opera: La Fanciulla del West – Puccini
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Idaho
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:28b377f40d56@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270129
-SUMMARY:Patrick Warburton
-LOCATION:Numerica Performing Arts Center\, Wenatchee
-DESCRIPTION:https://allevents.in/wenatchee/patrick-warburton/2300030580062639
-URL:https://allevents.in/wenatchee/patrick-warburton/2300030580062639
+UID:82810071154a@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270219T020000Z
+DTEND:20270219T040000Z
+SUMMARY:University of Montana Men's Basketball vs Idaho State
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Idaho State TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6702&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6702&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Patrick Warburton
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Idaho State
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:64ab8ca8214f@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270205T030000Z
-DTEND:20270205T053000Z
-SUMMARY:Singer Songwriter Storyteller: February
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:First Thursday of the month concert! Fox & Bones\, Flowers for Wolves\, Nick and Stephanie . Acoustic instruments\, honest vocals\, and songs that stay with you long after the last note – all inside Leavenworth’s Snowy Owl Theater\, a world-class listening room that feels just like home. $25 General…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Ezg2H2AR
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Ezg2H2AR
+UID:92c846224e5e@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270220T230000Z
+DTEND:20270221T010000Z
+SUMMARY:University of Montana Men's Basketball vs Weber State
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Weber State TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6704&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6704&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Singer Songwriter Storyteller: February
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Weber State
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7ea0c279c352@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270214T030000Z
-DTEND:20270214T053000Z
-SUMMARY:Seraph Brass @ ICCA
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Seraph Brass\, now in its 13th season\, was founded by trumpet soloist Mary Elizabeth Bowden with a mission to showcase the excellence of women brass players and to highlight musicians from marginalized groups. Winners of the American Prize in Chamber Music\, the group has been praised for its…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000F3iNF2AZ
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000F3iNF2AZ
+UID:a865de906e09@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270223T020000Z
+DTEND:20270223T040000Z
+SUMMARY:University of Montana Men's Basketball vs Utah Tech
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Utah Tech TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6706&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6706&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Seraph Brass @ ICCA
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Utah Tech
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c161dae55c8d@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270218
-SUMMARY:Mardi Gras Mambo at Numerica Performing Arts Center
-LOCATION:Numerica Performing Arts Center\, Wenatchee
-DESCRIPTION:https://happeningnext.com/event/mardi-gras-mambo-at-numerica-performing-arts-center-eid15hwihqebbp
-URL:https://happeningnext.com/event/mardi-gras-mambo-at-numerica-performing-arts-center-eid15hwihqebbp
+UID:c87c0782538f@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270227T140000Z
+DTEND:20270227T160000Z
+SUMMARY:University of Montana Men's Basketball vs Montana State
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Men's Basketball vs Montana State TV: ESPN+ Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29461&sourceCollection=Browse_by_Conference Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6708&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6708&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Mardi Gras Mambo at Numerica Performing Arts Center
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Montana State
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d963f63c51ae@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
-SUMMARY:Hell's Belles - Tribute to AC/DC
-LOCATION:Numerica Performing Arts Center\, Wenatchee
-DESCRIPTION:https://allevents.in/wenatchee/hells-belles-tribute-to-ac-dc/2300030576479253
-URL:https://allevents.in/wenatchee/hells-belles-tribute-to-ac-dc/2300030576479253
+UID:efd198c94d1c@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270227T210000Z
+DTEND:20270227T230000Z
+SUMMARY:University of Montana Women's Basketball vs Montana State
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Montana State TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6709&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6709&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Hell's Belles - Tribute to AC/DC
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Montana State
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c5f5cdcfa986@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270305T030000Z
-DTEND:20270305T053000Z
-SUMMARY:Singer Songwriter Storyteller: March
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:First Thursday of the month concert! Jacob Simms\, Wayne Evans\, Tim Langford. Acoustic instruments\, honest vocals\, and songs that stay with you long after the last note – all inside Leavenworth’s Snowy Owl Theater\, a world-class listening room that feels just like home. $25 General Admission $15…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EzgK12AJ
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EzgK12AJ
+UID:6f6d3c0182a7@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART:20270302T020000Z
+DTEND:20270302T040000Z
+SUMMARY:University of Montana Women's Basketball vs Southern Utah
+LOCATION:Missoula\, Missoula
+DESCRIPTION:University of Montana Women's Basketball vs Southern Utah TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6710&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6710&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Singer Songwriter Storyteller: March
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Southern Utah
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:262049ffb86e@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270307T033000Z
-DTEND:20270307T053000Z
-SUMMARY:Dylan Scott @ Town Toyota Center
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:Dylan Scott at Town Toyota Center at 2027-03-06T19:30:00-0800\nhttp://www.songkick.com/concerts/43419482-dylan-scott-at-town-toyota-center?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/concerts/43419482-dylan-scott-at-town-toyota-center?utm_medium=organic&utm_source=microformat
+UID:6ecc6376f142@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270308
+SUMMARY:FREE Missoula Home & Remodeling Show\, March 2027
+LOCATION:Missoula County Fairgrounds\, Missoula
+DESCRIPTION:FREE ADMISSIONThe Missoula Home & Remodeling Show is taking place March 5-7\, 2027 at the Missoula County FairgroundsWhy YOU Will Love the Home Show• HUGE SAVINGS — Take advantage of exclusive show-only deals from trusted local\nhttps://allevents.in/missoula/free-missoula-home-and-remodeling-show-march-2027-tickets/80002501943232
+URL:https://allevents.in/missoula/free-missoula-home-and-remodeling-show-march-2027-tickets/80002501943232
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Dylan Scott @ Town Toyota Center
+DESCRIPTION:Get tickets: FREE Missoula Home & Remodeling Show\, March 2027
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:964348c3e4a2@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270313T030000Z
-DTEND:20270313T050000Z
-SUMMARY:Sleeping Lady Foundation’s Speaker Series: Tim Egan
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Timothy P. Egan is a New York Times bestselling author\, journalist\, and former op-ed columnist for The New York Times. Egan has written ten books\, and recipient of multiple literary awards\, including the Carnegie Award for best nonfiction\, the National Book Award\, and the Pulitzer Prize for…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EskKL2AZ
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EskKL2AZ
+UID:81e8920ffd1e@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Play-In
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Play-In\nhttps://admin.gogriz.com/calendar.aspx?game_id=6762&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6762&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Sleeping Lady Foundation’s Speaker Series: Tim Egan
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Play-In
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d71b0bbb5f08@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270320
-SUMMARY:Wenatchee Wild vs. Portland Winterhawks
-LOCATION:Town Toyota Center - Wenatchee\, Wenatchee
-DESCRIPTION:https://happeningnext.com/event/wenatchee-wild-vs-portland-winterhawks-eid3fk9peo4eq
-URL:https://happeningnext.com/event/wenatchee-wild-vs-portland-winterhawks-eid3fk9peo4eq
+UID:d608eacaae48@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Play-In
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Play-In TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6712&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6712&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Wenatchee Wild vs. Portland Winterhawks
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Play-In
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4ccde93f4fe0@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270402T020000Z
-DTEND:20270402T043000Z
-SUMMARY:Singer Songwriter Storyteller: April
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:First Thursday of the month concert! Cody Bartels\, Skyler Mehal\, Seth Garrido . Acoustic instruments\, honest vocals\, and songs that stay with you long after the last note – all inside Leavenworth’s Snowy Owl Theater\, a world-class listening room that feels just like home. $25 General Admission $15…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EzjTB2AZ
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EzjTB2AZ
+UID:83aa9336d0f1@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:University of Montana Men's Basketball vs Big Sky Conference First Round
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference First Round\nhttps://admin.gogriz.com/calendar.aspx?game_id=6763&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6763&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Singer Songwriter Storyteller: April
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference First Round
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bef7ed5b406b@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270403T160000Z
-DTEND:20270403T210000Z
-SUMMARY:The Met Opera: Manon – Massenet
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Come experience the Metropolitan Opera\, live-streamed in HD in the beautiful Snowy Owl Theatre\, less than a 10 minute drive from downtown Leavenworth! Pastries and mimosas available for purchase. A masterpiece of the French repertoire\, Massenet’s passionate drama follows the young Manon on her…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq56n2AB
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq56n2AB
+UID:97c48fdc8284@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:University of Montana Women's Basketball vs Big Sky Conference First Round
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference First Round TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6713&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6713&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: The Met Opera: Manon – Massenet
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference First Round
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:717395f02739@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270409T020000Z
-DTEND:20270409T043000Z
-SUMMARY:Sleeping Lady Foundation’s Speaker Series: Danielle Feinberg
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Danielle Feinberg is known for both her work at Pixar Animation Studios\, as a champion of diversity\, as well as an entertaining and informative speaker\, giving talks around the world. She has helped shape the world of animated films through her work on such titles as A Bug’s Life\, Toy Story 2\,…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EskNZ2AZ
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EskNZ2AZ
+UID:546dbe34b624@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Quarterfinal
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Quarterfinal\nhttps://admin.gogriz.com/calendar.aspx?game_id=6764&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6764&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Sleeping Lady Foundation’s Speaker Series: Danielle Feinberg
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Quarterfinal
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cabd19d9be7a@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270427T170000Z
-DTEND:20270427T210000Z
-SUMMARY:The Met Opera: Otello – Verdi
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Come experience the Metropolitan Opera\, live-streamed in HD in the beautiful Snowy Owl Theatre\, less than a 10 minute drive from downtown Leavenworth! Pastries and mimosas available for purchase. Verdi’s monumental Shakespearean tragedy follows a triumphant war hero driven to destruction by…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq4x72AB
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq4x72AB
+UID:b62534a85471@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Quarterfinals
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Quarterfinals TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6714&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6714&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: The Met Opera: Otello – Verdi
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Quarterfinals
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f3df7304138f@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270507T020000Z
-DTEND:20270507T043000Z
-SUMMARY:Singer Songwriter Storyteller: May
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:First Thursday of the month concert! Cody Beebe\, James Beam\, The Rising Sons. Acoustic instruments\, honest vocals\, and songs that stay with you long after the last note – all inside Leavenworth’s Snowy Owl Theater\, a world-class listening room that feels just like home. $25 General Admission $15…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EzjeT2AR
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EzjeT2AR
+UID:736017f97923@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Quarterfinal
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Quarterfinal\nhttps://admin.gogriz.com/calendar.aspx?game_id=6765&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6765&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Singer Songwriter Storyteller: May
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Quarterfinal
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7828dabb4752@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:Traditional Maifest Celebration
-LOCATION:Front Street Gazebo & Leavenworth Festhalle\, Leavenworth
-DESCRIPTION:We’ve been doing Maifest right since 1971! This weekend will fill your entertainment card right up with Maipole dancing\, Bavarian music\, our annual Festzug (or Grand March) where town folk dress in their Bavarian best to welcome you to town and includes the Bernese Mountain dogs\, and so much more!…\nleavenworth.org/maifest
-URL:leavenworth.org/maifest
+UID:ebdf58a1622b@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Quarterfinals
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Quarterfinals TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6715&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6715&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Traditional Maifest Celebration
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Quarterfinals
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b9b3094ed53d@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-SUMMARY:Traditional Maifest Celebration
-LOCATION:Front Street Gazebo & Leavenworth Festhalle\, Leavenworth
-DESCRIPTION:We’ve been doing Maifest right since 1971! This weekend will fill your entertainment card right up with Maipole dancing\, Bavarian music\, our annual Festzug (or Grand March) where town folk dress in their Bavarian best to welcome you to town and includes the Bernese Mountain dogs\, and so much more!…\nleavenworth.org/maifest
-URL:leavenworth.org/maifest
+UID:db37f7b5d197@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Semifinal
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Semifinal\nhttps://admin.gogriz.com/calendar.aspx?game_id=6766&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6766&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Traditional Maifest Celebration
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Semifinal
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ad0f14402154@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270514T020000Z
-DTEND:20270514T043000Z
-SUMMARY:Sleeping Lady Foundation’s Speaker Series: Anna Lappé
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Anna Lappé is the Executive Director of the Global Alliance for the Future of Food\, a strategic alliance of philanthropic foundations working for food system transformation around the world. A recipient of the James Beard Leadership Award\, Anna is also the national bestselling co-author or author…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EskLy2AJ
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000EskLy2AJ
+UID:c9c60c268d10@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Semifinals
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Semifinals TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6716&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6716&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Sleeping Lady Foundation’s Speaker Series: Anna Lappé
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Semifinals
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a8ce77f77120@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART;VALUE=DATE:20270522
-DTEND;VALUE=DATE:20270523
-SUMMARY:Card Mania #03: Arena Show
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:https://allevents.in/wenatchee/card-mania-03-arena-show/200031013315403
-URL:https://allevents.in/wenatchee/card-mania-03-arena-show/200031013315403
+UID:11845d2aa4c9@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:University of Montana Men's Basketball vs Big Sky Conference Championship
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Men's Basketball vs Big Sky Conference Championship\nhttps://admin.gogriz.com/calendar.aspx?game_id=6767&amp\;sport_id=3
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6767&amp;sport_id=3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Card Mania #03: Arena Show
+DESCRIPTION:Get tickets: University of Montana Men's Basketball vs Big Sky Conference Championship
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f1312d64651c@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270604T020000Z
-DTEND:20270604T043000Z
-SUMMARY:Singer Songwriter Storyteller: June
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:First Thursday of the month concert! Ian Jones\, Leah Justine\, Aaron Crawford. Acoustic instruments\, honest vocals\, and songs that stay with you long after the last note – all inside Leavenworth’s Snowy Owl Theater\, a world-class listening room that feels just like home. $25 General Admission $15…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Ezjkv2AB
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Ezjkv2AB
+UID:08403188b65e@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:University of Montana Women's Basketball vs Big Sky Conference Championship
+LOCATION:Boise\, UM Campus
+DESCRIPTION:University of Montana Women's Basketball vs Big Sky Conference Championship TV: ESPN+ Radio: KGRZ (1450 AM/92.7 FM) Streaming Video: https://www.espn.com/watch/catalog/99ac5c2f-b082-440c-bf89-57b546f8b4d2/big-sky-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6717&amp\;sport_id=10
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6717&amp;sport_id=10
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Singer Songwriter Storyteller: June
+DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Big Sky Conference Championship
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ca5390513097@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270605T160000Z
-DTEND:20270605T220000Z
-SUMMARY:The Met Opera: Parsifal – Wagner
-LOCATION:Snowy Owl Theater at Icicle Creek Center for the Arts\, Leavenworth
-DESCRIPTION:Come experience the Metropolitan Opera\, live-streamed in HD in the beautiful Snowy Owl Theatre\, less than a 10 minute drive from downtown Leavenworth! Pastries and mimosas available for purchase. Wagner’s epic final opera\, set in a sacred realm of ritual and mystery\, unfolds as a meditation on…\nhttps://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq3sz2AB
-URL:https://icicle.my.salesforce-sites.com/ticket/#/instances/a0FPH00000Eq3sz2AB
+UID:343d3d559158@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Tom Papa at Wilma Theatre Missoula
+LOCATION:Wilma Theatre Missoula\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/tom-papa-at-wilma-theatre-missoula/2400030963027906
+URL:https://allevents.in/missoula/tom-papa-at-wilma-theatre-missoula/2400030963027906
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: The Met Opera: Parsifal – Wagner
+DESCRIPTION:Get tickets: Tom Papa at Wilma Theatre Missoula
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0209e9686dd1@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270625T220000Z
-DTEND:20270626T000000Z
-SUMMARY:Beyond Wonderland At The Gorge 2027 @ Gorge Amphitheatre
-LOCATION:Gorge Amphitheatre\, Quincy
-DESCRIPTION:Beyond Wonderland At The Gorge 2027 at Gorge Amphitheatre at 2027-06-25T15:00:00-0700\nhttp://www.songkick.com/festivals/3312374-beyond-wonderland-at-the-gorge/id/43325807-beyond-wonderland-at-the-gorge-2027?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/festivals/3312374-beyond-wonderland-at-the-gorge/id/43325807-beyond-wonderland-at-the-gorge-2027?utm_medium=organic&utm_source=microformat
+UID:8b787ce0a757@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Remi Wolf at KettleHouse Amphitheater
+LOCATION:KettleHouse Amphitheater\, Bonner / East Missoula
+DESCRIPTION:https://allevents.in/bonner/remi-wolf-at-kettlehouse-amphitheater/2400030828920341
+URL:https://allevents.in/bonner/remi-wolf-at-kettlehouse-amphitheater/2400030828920341
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Beyond Wonderland At The Gorge 2027 @ Gorge Amphitheatre
+DESCRIPTION:Get tickets: Remi Wolf at KettleHouse Amphitheater
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01a4adfb2daa@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270625T220000Z
-DTEND:20270626T000000Z
-SUMMARY:Beyond Wonderland Festival 2027 @ Gorge Amphitheatre
-LOCATION:Gorge Amphitheatre\, Quincy
-DESCRIPTION:Beyond Wonderland Festival 2027 at Gorge Amphitheatre at 2027-06-25T15:00:00-0700\nhttp://www.songkick.com/festivals/53856-beyond-wonderland/id/43313547-beyond-wonderland-festival-2027?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/festivals/53856-beyond-wonderland/id/43313547-beyond-wonderland-festival-2027?utm_medium=organic&utm_source=microformat
+UID:284c84c7f50e@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Leon Bridges Tickets
+LOCATION:KettleHouse Amphitheater\, Bonner / East Missoula
+DESCRIPTION:Leon Bridges brings soulful vocals\, smooth R&B grooves\, and timeless sounds that touch the heart! 🎤✨ Get ready for rich melodies\, vintage soul vibes\, and heartfelt performances blending classic rhythm and blues with modern elegance. 🎶❤️ Experience an\nhttps://allevents.in/bonner/leon-bridges-tickets/200030949221028
+URL:https://allevents.in/bonner/leon-bridges-tickets/200030949221028
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Beyond Wonderland Festival 2027 @ Gorge Amphitheatre
+DESCRIPTION:Get tickets: Leon Bridges Tickets
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:481a357277a3@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270626T190000Z
-DTEND:20270626T210000Z
-SUMMARY:Beyond Wonderland PNW 2027 @ Gorge Amphitheatre
-LOCATION:Gorge Amphitheatre\, Quincy
-DESCRIPTION:Beyond Wonderland PNW 2027 at Gorge Amphitheatre at 2027-06-26T12:00:00-0700\nhttp://www.songkick.com/festivals/3313079-beyond-wonderland-pnw/id/43325960-beyond-wonderland-pnw-2027?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/festivals/3313079-beyond-wonderland-pnw/id/43325960-beyond-wonderland-pnw-2027?utm_medium=organic&utm_source=microformat
+UID:28ee045a5e0f@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:University of Montana Football vs Lehigh
+LOCATION:Missoula\, UM Campus
+DESCRIPTION:University of Montana Football vs Lehigh\nhttps://admin.gogriz.com/calendar.aspx?game_id=6236&amp\;sport_id=1
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6236&amp;sport_id=1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Beyond Wonderland PNW 2027 @ Gorge Amphitheatre
+DESCRIPTION:Get tickets: University of Montana Football vs Lehigh
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5034e4abbda9@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270627T190000Z
-DTEND:20270627T210000Z
-SUMMARY:Beyond Wonderland At The Gorge 2027 @ Gorge Amphitheatre
-LOCATION:Gorge Amphitheatre\, Quincy
-DESCRIPTION:Beyond Wonderland At The Gorge 2027 at Gorge Amphitheatre at 2027-06-27T12:00:00-0700\nhttp://www.songkick.com/festivals/3312374-beyond-wonderland-at-the-gorge/id/43311274-beyond-wonderland-at-the-gorge-2027?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/festivals/3312374-beyond-wonderland-at-the-gorge/id/43311274-beyond-wonderland-at-the-gorge-2027?utm_medium=organic&utm_source=microformat
+UID:546b73fd0132@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:University of Montana Football vs Central Washington
+LOCATION:Missoula\, UM Campus
+DESCRIPTION:University of Montana Football vs Central Washington\nhttps://admin.gogriz.com/calendar.aspx?game_id=6756&amp\;sport_id=1
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6756&amp;sport_id=1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Beyond Wonderland At The Gorge 2027 @ Gorge Amphitheatre
+DESCRIPTION:Get tickets: University of Montana Football vs Central Washington
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:95a59ff78dff@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270703T010000Z
-DTEND:20270703T030000Z
-SUMMARY:Zach Top @ Gorge Amphitheatre
-LOCATION:Gorge Amphitheatre\, Quincy
-DESCRIPTION:Zach Top and Red Clay Strays at Gorge Amphitheatre at 2027-07-02T18:00:00-0700\nhttp://www.songkick.com/concerts/43507468-zach-top-at-gorge-amphitheatre?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/concerts/43507468-zach-top-at-gorge-amphitheatre?utm_medium=organic&utm_source=microformat
+UID:7c0cd35ef82e@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:University of Montana Football vs West Florida
+LOCATION:Missoula\, UM Campus
+DESCRIPTION:University of Montana Football vs West Florida\nhttps://admin.gogriz.com/calendar.aspx?game_id=6757&amp\;sport_id=1
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6757&amp;sport_id=1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Zach Top @ Gorge Amphitheatre
+DESCRIPTION:Get tickets: University of Montana Football vs West Florida
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7657b55bf1fd@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270822T030000Z
-DTEND:20270822T050000Z
-SUMMARY:King Gizzard & The Lizard Wizard @ The Gorge Amphitheatre
-LOCATION:The Gorge Amphitheatre\, Quincy
-DESCRIPTION:King Gizzard & The Lizard Wizard at The Gorge Amphitheatre at 2027-08-21T20:00:00-0700\nhttp://www.songkick.com/concerts/43507905-king-gizzard-and-the-lizard-wizard-at-gorge-amphitheatre?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/concerts/43507905-king-gizzard-and-the-lizard-wizard-at-gorge-amphitheatre?utm_medium=organic&utm_source=microformat
+UID:850504de40c7@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:University of Montana Football vs Cal Poly - Homecoming
+LOCATION:Missoula\, UM Campus
+DESCRIPTION:University of Montana Football vs Cal Poly - Homecoming\nhttps://admin.gogriz.com/calendar.aspx?game_id=6769&amp\;sport_id=1
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6769&amp;sport_id=1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: King Gizzard & The Lizard Wizard @ The Gorge Amphitheatre
+DESCRIPTION:Get tickets: University of Montana Football vs Cal Poly - Homecoming
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bcaaf8379ae6@wenatchee-activities
-DTSTAMP:20261113T175008Z
-DTSTART:20270903T030000Z
-DTEND:20270903T050000Z
-SUMMARY:Legacy: A Pink Floyd Show @ Town Toyota Center
-LOCATION:Town Toyota Center\, Wenatchee
-DESCRIPTION:Legacy: A Pink Floyd Show at Town Toyota Center at 2027-09-02T20:00:00-0700\nhttp://www.songkick.com/concerts/43503436-legacy-a-pink-floyd-show-at-town-toyota-center?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/concerts/43503436-legacy-a-pink-floyd-show-at-town-toyota-center?utm_medium=organic&utm_source=microformat
+UID:0018ccf4cf73@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:University of Montana Football vs Eastern Washington
+LOCATION:Missoula\, UM Campus
+DESCRIPTION:University of Montana Football vs Eastern Washington\nhttps://admin.gogriz.com/calendar.aspx?game_id=6772&amp\;sport_id=1
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6772&amp;sport_id=1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Get tickets: Legacy: A Pink Floyd Show @ Town Toyota Center
+DESCRIPTION:Get tickets: University of Montana Football vs Eastern Washington
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:af26b7549fe6@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271107
+SUMMARY:University of Montana Football vs Northern Arizona
+LOCATION:Missoula\, UM Campus
+DESCRIPTION:University of Montana Football vs Northern Arizona\nhttps://admin.gogriz.com/calendar.aspx?game_id=6774&amp\;sport_id=1
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6774&amp;sport_id=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Football vs Northern Arizona
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccf76797a615@wenatchee-activities
+DTSTAMP:20261113T184127Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:University of Montana Football vs Montana State
+LOCATION:Missoula\, UM Campus
+DESCRIPTION:University of Montana Football vs Montana State\nhttps://admin.gogriz.com/calendar.aspx?game_id=6776&amp\;sport_id=1
+URL:https://admin.gogriz.com/calendar.aspx?game_id=6776&amp;sport_id=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: University of Montana Football vs Montana State
 TRIGGER:-P21D
 END:VALARM
 END:VEVENT
