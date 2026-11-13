@@ -7,7 +7,7 @@ X-WR-TIMEZONE:America/Denver
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:3b009c42b9d5@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20270207
 SUMMARY:Candlelight: Coldplay & Imagine Dragons
@@ -22,7 +22,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cf256f7e8b4c@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261114T020000Z
 DTEND:20261114T033000Z
 SUMMARY:Can the Cats with discounted Lady Griz tickets Nov 13!
@@ -37,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9843abc1dc2d@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261114T020000Z
 DTEND:20261114T040000Z
 SUMMARY:University of Montana Women's Basketball vs Houston
@@ -52,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1f39b02ff7d0@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261114T023000Z
 DTEND:20261114T050000Z
 SUMMARY:Griz Hockey vs. Boise State (Veterans Day Game)
@@ -67,7 +67,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f41f7eff66b4@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261114T023000Z
 DTEND:20261114T033000Z
 SUMMARY:Symphonic Wind Ensemble and Popular Music Ensemble
@@ -82,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:db75d2aa98fa@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
 SUMMARY:The Last Revel @ The Wilma
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0255b5a98b@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Griz football vs. Idaho State 11/14
@@ -112,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c489baeb25f8@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Idaho State Bengals at Montana Grizzlies Football at Washington-Grizzly Stadium
@@ -126,23 +126,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:11cdccb30188@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:MCAT Tour & Training
-LOCATION:MCAT\, Downtown Missoula
-DESCRIPTION:<p><em>MCAT</em></p> <p> </p> <p>Learn about all the media resources MCAT offers for public use. The tour includes the studio\, computer editing\, podcast rooms and cameras for check-out. For more information\, or to arrange a custom tour for groups\, call MCAT media instructors at (406)542-6228.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
-URL:https://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: MCAT Tour & Training
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:fd60a681b6f1@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Montana Grizzlies Football vs. Idaho State Bengals Football
@@ -156,23 +141,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b5eb77115c63@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Young Kids Dance Party
-LOCATION:MCAT\, Downtown Missoula
-DESCRIPTION:<p><em><strong>MCAT</strong></em></p> <p> </p> <p>MCAT offers a disco dance opportunity for kids\, caregivers and parents every Saturday from 11:00 AM to 11:45 AM. Stop by the MCAT studio in the southeast Corner of Level One after <a…\nhttps://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
-URL:https://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Young Kids Dance Party
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:e3e9502de337@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261115T020000Z
 DTEND:20261115T033000Z
 SUMMARY:Game Day Food Drive for Can the Cats!
@@ -187,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e1aed250bee4@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
 SUMMARY:Railroad Earth @ The Wilma
@@ -202,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ffdae71d52c8@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261115T033000Z
 DTEND:20261115T063000Z
 SUMMARY:Can the Cats at the Idaho State Football Game
@@ -217,7 +187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a8847cb8a549@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261115T033000Z
 DTEND:20261115T063000Z
 SUMMARY:University of Montana Football vs Idaho State - Senior Day
@@ -232,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7ee97e5eb6@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:MISSOULA\, MT @ Big Sky Brewing ♦ STAND-UP comedy ♦ SUNDAY ♦ 15 November @ 7pm (local time)
@@ -246,23 +216,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:be20e56998e4@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Art with a Purpose
-LOCATION:Families First Classroom\, Downtown Missoula
-DESCRIPTION:<p><em><strong>Families First</strong><br /> </em></p> <p> </p> <p>Art with a Purpose is a program that allows children the ability to get creative while serving our community! We also feature fun and educational activities that promote our vision of imaginative & dramatic play. Drop by our…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
-URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Art with a Purpose
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:f6d7f7166b2a@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261117T020000Z
 DTEND:20261117T033000Z
 SUMMARY:Can the Cats with Griz Volleyball - Nov 16! 🏐
@@ -277,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9851913dff2d@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261117T020000Z
 DTEND:20261117T040000Z
 SUMMARY:University of Montana Volleyball vs Northern Colorado
@@ -291,143 +246,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1d17e32d1de4@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Infant to 3-Year-Old Playgroup
-LOCATION:Imaginarium\, Downtown Missoula
-DESCRIPTION:<p><em><strong>Families First</strong></em></p> <p> </p> <p>Families First and the Missoula Public Library host a play group for infants to three-year-olds. Activities focus on early childhood development\, play and the importance of community.</p> <p> </p> <p><span…\nhttps://www.missoulapubliclibrary.org/program-calendar/infant-to-3-year-old-playgroup/
-URL:https://www.missoulapubliclibrary.org/program-calendar/infant-to-3-year-old-playgroup/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Infant to 3-Year-Old Playgroup
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:eb2a0d250ebf@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Learn the Basics of Audio Recording
-LOCATION:MCAT\, Downtown Missoula
-DESCRIPTION:<p>Learn the basics of audio recording\, including home studio recording\, field recording\, and camera audio. Great for the absolute beginners to those with some experience. Travis Yost is a recording engineer and performing musician with 30+ years of experience.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/learn-the-basics-of-audio-recording/
-URL:https://www.missoulapubliclibrary.org/program-calendar/learn-the-basics-of-audio-recording/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Learn the Basics of Audio Recording
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:5bb7404b65ea@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:3rd Wednesday Book Group
-LOCATION:Art Box\, Downtown Missoula
-DESCRIPTION:<p class="p1">Meetings will be held in the Blackfoot Room on Level Four. If you are interested in participating in this discussion\, email Pam at <a href="mailto:pamc9701@gmail.com">pamc9701@gmail.com</a> with the “3rd Wednesday Book Group” in the subject line.</p> <p> </p> <p><strong>Please note:…\nhttps://www.missoulapubliclibrary.org/program-calendar/3rd-wednesday-book-group/
-URL:https://www.missoulapubliclibrary.org/program-calendar/3rd-wednesday-book-group/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: 3rd Wednesday Book Group
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6f42368e300a@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Middle School Writers’ Group
-LOCATION:Art Box\, Downtown Missoula
-DESCRIPTION:<p class="p1">For writers and would-be writers ages 12-14. We share our original stories\, poems\, novels\; give and receive feedback\; and do fun writing activities. It’s all about creation and imagination!</p> <p> </p> <p>Those interested in joining should email Dana at <a class="mail-link"…\nhttps://www.missoulapubliclibrary.org/program-calendar/middle-school-writers-group/
-URL:https://www.missoulapubliclibrary.org/program-calendar/middle-school-writers-group/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Middle School Writers’ Group
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:312cb7ee44d1@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Preschool STEM Building
-LOCATION:Families First Classroom\, Downtown Missoula
-DESCRIPTION:<p><em><strong>Families First<br /> </strong></em></p> <p> </p> <p>Discover the magic of huge blue blocks\, felt tiles\, STEM play activities and magna tiles. Kids can visit anytime between 11 AM – 2 PM every Wednesday to build and dream up giant creations all while learning about STEM education in…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-stem-building/
-URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-stem-building/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Preschool STEM Building
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7712310b8c2c@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Stories and Games for Diverse Abilities
-LOCATION:Art Box\, Downtown Missoula
-DESCRIPTION:<p>Teens and adults with cognitive\, physical\, or other disabilities are welcome to join a fun hour of stories\, games\, and light-hearted conversation and connection. Stories and games led by Dana McMurray. Please email your questions to <a…\nhttps://www.missoulapubliclibrary.org/program-calendar/story-time-for-diverse-abilities-182/
-URL:https://www.missoulapubliclibrary.org/program-calendar/story-time-for-diverse-abilities-182/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Stories and Games for Diverse Abilities
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:46289d41afe9@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Exploring Music Making with Garageband Software
-LOCATION:MCAT\, Downtown Missoula
-DESCRIPTION:<p>Computers\, software and keyboards for a group exploration of music-making using the popular Apple software Garageband. Participation is limited to four people each session. Registration is encouraged but not required. To learn more and register go to www.mcat.org.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/exploring-music-making-with-garageband-software/
-URL:https://www.missoulapubliclibrary.org/program-calendar/exploring-music-making-with-garageband-software/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Exploring Music Making with Garageband Software
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c183293b692c@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Missoula Well-Being Concert
-LOCATION:Level One\, Missoula
-DESCRIPTION:<p><a href="https://www.missoulacrescendoclub.com/" target="_blank" rel="noopener">Missoula Crescendo Club</a> and Missoula Public Library invite you to A Well-Being Concert. This free\, family-friendly event offers a unique opportunity to slow down\, reconnect\, and experience the restorative power…\nhttps://www.missoulapubliclibrary.org/program-calendar/missoula-well-being-concert/
-URL:https://www.missoulapubliclibrary.org/program-calendar/missoula-well-being-concert/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Missoula Well-Being Concert
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9f212ea51c9e@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Teen Library Community
-LOCATION:Art Box\, Downtown Missoula
-DESCRIPTION:<p class="x_editor-paragraph" data-olk-copy-source="MessageBody">Make your voice heard! TLC is a core group of teens\, grades 7-12. TLC members help decide the library’s teen services\, meet new friends\, and gain volunteer hours in service to the library and greater Missoula community. Help make…\nhttps://www.missoulapubliclibrary.org/program-calendar/teen-library-community/
-URL:https://www.missoulapubliclibrary.org/program-calendar/teen-library-community/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Teen Library Community
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:90921992e1ed@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261120T020000Z
 DTEND:20261120T040000Z
 SUMMARY:Theatre Night w/the DHC
@@ -442,7 +262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8e99f332ad99@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Funksgiving 12 at Wilma Theatre Missoula
@@ -457,7 +277,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:94362653b2cc@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Funksgiving 12 ft. Special Guest Revel Day w/ Desperate Electric
@@ -471,53 +291,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:230cc853e984@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Watercolor Painting Collaborative @ MPL
-LOCATION:Cooper Room\, Downtown Missoula
-DESCRIPTION:<p>Join each week as watercolor enthusiasts\, from beginners to advanced painters\, gather in the Cooper Room on Level Four (12-2 PM) of the library. This program is open to adults ages 18 and older. There is no fee or registration. Participants need to bring their own watercolor paper\, paints\,…\nhttps://www.missoulapubliclibrary.org/program-calendar/watercolor-painting-collaborative-mpl/
-URL:https://www.missoulapubliclibrary.org/program-calendar/watercolor-painting-collaborative-mpl/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Watercolor Painting Collaborative @ MPL
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f46480263ad6@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Yarns @ MPL
-LOCATION:Art Box\, Downtown Missoula
-DESCRIPTION:<p>Calling all knitters and crocheters! Bring your latest project to the Blackfoot Board Room on Level Four on Fridays at noon to end your week with some crafty fun.</p> <p> </p> <p><strong>Please note: Yarns will be in the Art Box on 10/30.</strong></p>\nhttps://www.missoulapubliclibrary.org/program-calendar/yarns-mpl/
-URL:https://www.missoulapubliclibrary.org/program-calendar/yarns-mpl/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Yarns @ MPL
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f647726e8e4b@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Young Adult Writers’ Group
-LOCATION:Art Box\, Downtown Missoula
-DESCRIPTION:<p class="p1">For writers and aspiring writers ages 16-19. We share our work aloud–poems\, stories\, songs\, rants\, novels–and give and receive respectful feedback. All genres\, tones\, styles welcome. We laugh\, we shiver\, we cringe\, we swoon – we ENJOY WORDS!! Members will meet live (with a Zoom…\nhttps://www.missoulapubliclibrary.org/program-calendar/young-adult-writers-group/
-URL:https://www.missoulapubliclibrary.org/program-calendar/young-adult-writers-group/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Young Adult Writers’ Group
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:fca578693fb2@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261121T023000Z
 DTEND:20261121T050000Z
 SUMMARY:Griz Hockey vs. Montana Tech (Colin Snodgrass Scholarship Game)
@@ -531,68 +306,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4d85c0048186@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Cat Griz (MSU vs UM) Game Day at the Library
-LOCATION:Cooper Room A\, Downtown Missoula
-DESCRIPTION:<p><span data-contrast="auto">Join the library on Level 4 to watch the Cat Griz game! </span><span data-ccp-props="{"201341983":0\,"335559739":0\,"335559740":240}"> </span></p>\nhttps://www.missoulapubliclibrary.org/program-calendar/cat-griz-msu-vs-um-game-day-at-the-library/
-URL:https://www.missoulapubliclibrary.org/program-calendar/cat-griz-msu-vs-um-game-day-at-the-library/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Cat Griz (MSU vs UM) Game Day at the Library
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:345aa07db476@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:MCAT Tour & Training
-LOCATION:MCAT\, Downtown Missoula
-DESCRIPTION:<p><em>MCAT</em></p> <p> </p> <p>Learn about all the media resources MCAT offers for public use. The tour includes the studio\, computer editing\, podcast rooms and cameras for check-out. For more information\, or to arrange a custom tour for groups\, call MCAT media instructors at (406)542-6228.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
-URL:https://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: MCAT Tour & Training
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2027998ccd04@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:The Basics of Making Earrings
-LOCATION:MakerSpace\, Downtown Missoula
-DESCRIPTION:<p>Learn the basics of earring making in this beginner-friendly workshop and leave with a handcrafted pair of earrings for yourself or a loved one. You’ll learn fundamental jewelry-making techniques while creating your own unique design from a selection of beads and findings. No experience is…\nhttps://www.missoulapubliclibrary.org/program-calendar/the-basics-of-making-earrings/
-URL:https://www.missoulapubliclibrary.org/program-calendar/the-basics-of-making-earrings/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: The Basics of Making Earrings
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:457c12ed3c32@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Young Kids Dance Party
-LOCATION:MCAT\, Downtown Missoula
-DESCRIPTION:<p><em><strong>MCAT</strong></em></p> <p> </p> <p>MCAT offers a disco dance opportunity for kids\, caregivers and parents every Saturday from 11:00 AM to 11:45 AM. Stop by the MCAT studio in the southeast Corner of Level One after <a…\nhttps://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
-URL:https://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Young Kids Dance Party
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:abf9e9a389d3@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261122T030000Z
 DTEND:20261122T050000Z
 SUMMARY:The Brothers Comatose @ The Wilma
@@ -607,7 +322,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f53a33aac6f6@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Montana State-Northern Skylights at Montana Lady Grizzlies Womens Basketball
@@ -622,7 +337,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c32a63cbb59c@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 SUMMARY:University of Montana Women's Basketball vs MSU Northern
@@ -636,23 +351,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c88e8df49534@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Art with a Purpose
-LOCATION:Families First Classroom\, Downtown Missoula
-DESCRIPTION:<p><em><strong>Families First</strong><br /> </em></p> <p> </p> <p>Art with a Purpose is a program that allows children the ability to get creative while serving our community! We also feature fun and educational activities that promote our vision of imaginative & dramatic play. Drop by our…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
-URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Art with a Purpose
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:439ac1b428ee@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:The Nutcracker: Magical Christmas Ballet
@@ -667,7 +367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:df7cd3edac47@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261124T020000Z
 DTEND:20261124T040000Z
 SUMMARY:University of Montana Men's Basketball vs Carroll College
@@ -681,23 +381,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:108c1acc28f2@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Infant to 3-Year-Old Playgroup
-LOCATION:Imaginarium\, Downtown Missoula
-DESCRIPTION:<p><em><strong>Families First</strong></em></p> <p> </p> <p>Families First and the Missoula Public Library host a play group for infants to three-year-olds. Activities focus on early childhood development\, play and the importance of community.</p> <p> </p> <p><span…\nhttps://www.missoulapubliclibrary.org/program-calendar/infant-to-3-year-old-playgroup/
-URL:https://www.missoulapubliclibrary.org/program-calendar/infant-to-3-year-old-playgroup/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Infant to 3-Year-Old Playgroup
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:b30d3452ac15@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261125T020000Z
 DTEND:20261125T040000Z
 SUMMARY:University of Montana Women's Basketball vs Carroll
@@ -711,83 +396,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:068ac474195b@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Middle School Writers’ Group
-LOCATION:Art Box\, Downtown Missoula
-DESCRIPTION:<p class="p1">For writers and would-be writers ages 12-14. We share our original stories\, poems\, novels\; give and receive feedback\; and do fun writing activities. It’s all about creation and imagination!</p> <p> </p> <p>Those interested in joining should email Dana at <a class="mail-link"…\nhttps://www.missoulapubliclibrary.org/program-calendar/middle-school-writers-group/
-URL:https://www.missoulapubliclibrary.org/program-calendar/middle-school-writers-group/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Middle School Writers’ Group
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bec133351827@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Preschool STEM Building
-LOCATION:Families First Classroom\, Downtown Missoula
-DESCRIPTION:<p><em><strong>Families First<br /> </strong></em></p> <p> </p> <p>Discover the magic of huge blue blocks\, felt tiles\, STEM play activities and magna tiles. Kids can visit anytime between 11 AM – 2 PM every Wednesday to build and dream up giant creations all while learning about STEM education in…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-stem-building/
-URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-stem-building/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Preschool STEM Building
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2f2eca4f23e1@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:MCAT Tour & Training
-LOCATION:MCAT\, Downtown Missoula
-DESCRIPTION:<p><em>MCAT</em></p> <p> </p> <p>Learn about all the media resources MCAT offers for public use. The tour includes the studio\, computer editing\, podcast rooms and cameras for check-out. For more information\, or to arrange a custom tour for groups\, call MCAT media instructors at (406)542-6228.</p>\nhttps://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
-URL:https://www.missoulapubliclibrary.org/program-calendar/mcat-facility-tour/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: MCAT Tour & Training
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:0a46e8a655ee@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:Young Kids Dance Party
-LOCATION:MCAT\, Downtown Missoula
-DESCRIPTION:<p><em><strong>MCAT</strong></em></p> <p> </p> <p>MCAT offers a disco dance opportunity for kids\, caregivers and parents every Saturday from 11:00 AM to 11:45 AM. Stop by the MCAT studio in the southeast Corner of Level One after <a…\nhttps://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
-URL:https://www.missoulapubliclibrary.org/program-calendar/young-kids-dance-party/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Young Kids Dance Party
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:c48b3e826c2e@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Art with a Purpose
-LOCATION:Families First Classroom\, Downtown Missoula
-DESCRIPTION:<p><em><strong>Families First</strong><br /> </em></p> <p> </p> <p>Art with a Purpose is a program that allows children the ability to get creative while serving our community! We also feature fun and educational activities that promote our vision of imaginative & dramatic play. Drop by our…\nhttps://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
-URL:https://www.missoulapubliclibrary.org/program-calendar/preschool-art-with-a-purpose/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Art with a Purpose
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:b5431c2612ca@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Clark Fork Coalition Holiday Party at The Wilma - Missoula\, MT
@@ -802,7 +412,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c59c38762f87@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261204T020000Z
 DTEND:20261204T040000Z
 SUMMARY:University of Montana Women's Basketball vs Northern Arizona
@@ -817,7 +427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:92519df02eb0@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261206
 SUMMARY:Little Red Truck's European Christmas Market Friday 4-8 and Saturday 10-4
@@ -832,7 +442,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:609bade40bea@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
 SUMMARY:Kip Moore @ The Wilma
@@ -847,7 +457,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c87e856b9d97@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261209T020000Z
 DTEND:20261209T040000Z
 SUMMARY:University of Montana Men's Basketball vs South Dakota
@@ -862,7 +472,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ae899f69c887@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Backcountry Film Festival ❄️
@@ -877,7 +487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e5db3aba43f7@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Becky Robinson's Holiday Spectacular at Wilma Theatre Missoula
@@ -892,7 +502,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:565efd718bde@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
 SUMMARY:Becky Robinson @ The Wilma
@@ -907,7 +517,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:92d1e1dac2cc@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Dave Simonett
@@ -922,7 +532,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:23601461b8bc@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261212T180000Z
 DTEND:20261212T190000Z
 SUMMARY:Teddy Bear Tea Party 1
@@ -937,7 +547,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fa5c453d0a42@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261212T193000Z
 DTEND:20261212T203000Z
 SUMMARY:Teddy Bear Tea Party 2
@@ -952,7 +562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a3314c02f483@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261212T210000Z
 DTEND:20261212T220000Z
 SUMMARY:Teddy Bear Tea Party 3
@@ -967,7 +577,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f2ab9e4dde2c@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Missoula Holiday MADE fair
@@ -982,7 +592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8044d4a33109@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261213T180000Z
 DTEND:20261213T190000Z
 SUMMARY:Teddy Bear Tea Party 4
@@ -997,7 +607,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:208e78edfba8@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261213T193000Z
 DTEND:20261213T203000Z
 SUMMARY:Teddy Bear Tea Party 5
@@ -1012,7 +622,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f1c04d2eb234@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261213T210000Z
 DTEND:20261213T220000Z
 SUMMARY:Teddy Bear Tea Party 6
@@ -1027,7 +637,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aeb700e070d5@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261219T020000Z
 DTEND:20261219T040000Z
 SUMMARY:University of Montana Men's Basketball vs Pepperdine
@@ -1042,7 +652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1a74fe1213ef@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261219T210000Z
 DTEND:20261219T230000Z
 SUMMARY:University of Montana Women's Basketball vs South Dakota
@@ -1057,7 +667,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d1a9b4018ddd@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261222T020000Z
 DTEND:20261222T040000Z
 SUMMARY:University of Montana Men's Basketball vs Providence (Mont.)
@@ -1072,7 +682,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eb473f8c8675@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20270207
 SUMMARY:Candlelight: Queen vs. ABBA
@@ -1087,7 +697,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:96e65b80934b@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20261231T230000Z
 DTEND:20270101T010000Z
 SUMMARY:University of Montana Men's Basketball vs Northern Colorado
@@ -1102,7 +712,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e1a1f2883de5@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270102T210000Z
 DTEND:20270102T230000Z
 SUMMARY:University of Montana Men's Basketball vs Portland State
@@ -1117,7 +727,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:059b7efdf38c@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270108T020000Z
 DTEND:20270108T040000Z
 SUMMARY:University of Montana Women's Basketball vs Weber State
@@ -1132,7 +742,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6ef303e39dee@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270109T210000Z
 DTEND:20270109T230000Z
 SUMMARY:University of Montana Women's Basketball vs Idaho State
@@ -1147,7 +757,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e75e486753b3@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270115T020000Z
 DTEND:20270115T040000Z
 SUMMARY:University of Montana Men's Basketball vs Idaho
@@ -1162,7 +772,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:88ea8b12602c@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270116T230000Z
 DTEND:20270117T010000Z
 SUMMARY:University of Montana Men's Basketball vs Eastern Washington - N7 Game
@@ -1177,7 +787,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8ba62424dc16@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270118T210000Z
 DTEND:20270118T230000Z
 SUMMARY:University of Montana Women's Basketball vs Utah Tech
@@ -1192,7 +802,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c2a29555c564@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270126T020000Z
 DTEND:20270126T040000Z
 SUMMARY:University of Montana Men's Basketball vs Southern Utah
@@ -1206,23 +816,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:472fd79f8e80@wenatchee-activities
-DTSTAMP:20261113T184800Z
-DTSTART;VALUE=DATE:20270129
-DTEND;VALUE=DATE:20270130
-SUMMARY:Symphony in Space
-LOCATION:University of Montana - Dennison Theatre\, UM Campus
-DESCRIPTION:https://allevents.in/missoula/symphony-in-space/100002004631160765
-URL:https://allevents.in/missoula/symphony-in-space/100002004631160765
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Symphony in Space
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:888a1b1cbab0@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:The Maye Masquerade Ball
@@ -1237,7 +832,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:28b1c67cb9fd@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270130T230000Z
 DTEND:20270131T010000Z
 SUMMARY:University of Montana Men's Basketball vs Northern Arizona
@@ -1252,7 +847,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a2d927526611@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270205T020000Z
 DTEND:20270205T040000Z
 SUMMARY:University of Montana Women's Basketball vs Portland State
@@ -1267,7 +862,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8c3fa7b6b344@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270206T210000Z
 DTEND:20270206T230000Z
 SUMMARY:University of Montana Women's Basketball vs Northern Colorado
@@ -1282,7 +877,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:161d8df01522@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270212T020000Z
 DTEND:20270212T040000Z
 SUMMARY:University of Montana Women's Basketball vs Eastern Washington
@@ -1297,7 +892,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d5d061862482@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270213T210000Z
 DTEND:20270213T230000Z
 SUMMARY:University of Montana Women's Basketball vs Idaho
@@ -1312,7 +907,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:82810071154a@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270219T020000Z
 DTEND:20270219T040000Z
 SUMMARY:University of Montana Men's Basketball vs Idaho State
@@ -1327,7 +922,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:92c846224e5e@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270220T230000Z
 DTEND:20270221T010000Z
 SUMMARY:University of Montana Men's Basketball vs Weber State
@@ -1342,7 +937,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a865de906e09@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270223T020000Z
 DTEND:20270223T040000Z
 SUMMARY:University of Montana Men's Basketball vs Utah Tech
@@ -1357,7 +952,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c87c0782538f@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270227T140000Z
 DTEND:20270227T160000Z
 SUMMARY:University of Montana Men's Basketball vs Montana State
@@ -1372,7 +967,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:efd198c94d1c@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270227T210000Z
 DTEND:20270227T230000Z
 SUMMARY:University of Montana Women's Basketball vs Montana State
@@ -1387,7 +982,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6f6d3c0182a7@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART:20270302T020000Z
 DTEND:20270302T040000Z
 SUMMARY:University of Montana Women's Basketball vs Southern Utah
@@ -1402,7 +997,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6ecc6376f142@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270308
 SUMMARY:FREE Missoula Home & Remodeling Show\, March 2027
@@ -1417,7 +1012,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:343d3d559158@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Tom Papa at Wilma Theatre Missoula
@@ -1432,7 +1027,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8b787ce0a757@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:Remi Wolf at KettleHouse Amphitheater
@@ -1447,7 +1042,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:284c84c7f50e@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 SUMMARY:Leon Bridges Tickets
@@ -1462,7 +1057,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:28ee045a5e0f@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:University of Montana Football vs Lehigh
@@ -1477,7 +1072,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:546b73fd0132@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
 SUMMARY:University of Montana Football vs Central Washington
@@ -1492,7 +1087,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7c0cd35ef82e@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 SUMMARY:University of Montana Football vs West Florida
@@ -1507,7 +1102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:850504de40c7@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:University of Montana Football vs Cal Poly - Homecoming
@@ -1522,7 +1117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0018ccf4cf73@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
 SUMMARY:University of Montana Football vs Eastern Washington
@@ -1537,7 +1132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:af26b7549fe6@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20271106
 DTEND;VALUE=DATE:20271107
 SUMMARY:University of Montana Football vs Northern Arizona
@@ -1552,7 +1147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ccf76797a615@wenatchee-activities
-DTSTAMP:20261113T184800Z
+DTSTAMP:20261113T185116Z
 DTSTART;VALUE=DATE:20271120
 DTEND;VALUE=DATE:20271121
 SUMMARY:University of Montana Football vs Montana State
