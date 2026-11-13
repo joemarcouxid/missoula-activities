@@ -38,7 +38,7 @@
    "id": "griz-athletics",
    "name": "Montana Grizzlies athletics",
    "town": "UM Campus",
-   "concerts": true,
+   "concerts": false,
    "site": "https://gogriz.com/calendar",
    "strategies": [
     [
@@ -46,7 +46,9 @@
      "https://gogriz.com/calendar.ashx/calendar.ics"
     ]
    ],
-   "exclude": "\\b(at|@) (?!montana)|away"
+   "exclude": "University of Montana [^|]*\\bat\\b",
+   "aggregator": true,
+   "bigTitles": "football|basketball|volleyball"
   },
   {
    "id": "dennison",
