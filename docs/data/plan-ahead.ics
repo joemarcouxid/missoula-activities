@@ -4,10 +4,10 @@ PRODID:-//wenatchee-activities//Plan Ahead//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:🏔️ Missoula Happenings – Plan Ahead
 X-WR-TIMEZONE:America/Denver
-REFRESH-INTERVAL;VALUE=DURATION:PT6H
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
 BEGIN:VEVENT
 UID:3b009c42b9d5@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20270207
 SUMMARY:Candlelight: Coldplay & Imagine Dragons
@@ -21,103 +21,13 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cf256f7e8b4c@wenatchee-activities
-DTSTAMP:20261113T185116Z
-DTSTART:20261114T020000Z
-DTEND:20261114T033000Z
-SUMMARY:Can the Cats with discounted Lady Griz tickets Nov 13!
-LOCATION:Adams Center - Dahlberg Arena (Robin Selvig Court)\, UM Campus
-DESCRIPTION:Cheer on the Griz for a good cause! Bring five canned food items to the Nov. 13 Lady Griz game\, drop them off at the collection bin in the Adams Center and purchase a discounted $5 ticket at the ticket window. Your donations support the UM Food Pantry and Missoula Food Bank and Community Center.…\nhttps://grizhub.umt.edu/engage/event/12937649
-URL:https://grizhub.umt.edu/engage/event/12937649
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Can the Cats with discounted Lady Griz tickets Nov 13!
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9843abc1dc2d@wenatchee-activities
-DTSTAMP:20261113T185116Z
-DTSTART:20261114T020000Z
-DTEND:20261114T040000Z
-SUMMARY:University of Montana Women's Basketball vs Houston
-LOCATION:Missoula\, Missoula
-DESCRIPTION:University of Montana Women's Basketball vs Houston Radio: KGRZ (1450 AM/92.7 FM) Streaming Audio: https://kgrzmissoula.com/listen-live/\nhttps://admin.gogriz.com/calendar.aspx?game_id=6652&amp\;sport_id=10
-URL:https://admin.gogriz.com/calendar.aspx?game_id=6652&amp;sport_id=10
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: University of Montana Women's Basketball vs Houston
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1f39b02ff7d0@wenatchee-activities
-DTSTAMP:20261113T185116Z
-DTSTART:20261114T023000Z
-DTEND:20261114T050000Z
-SUMMARY:Griz Hockey vs. Boise State (Veterans Day Game)
-LOCATION:Glacier Ice Rink\, UM Campus
-DESCRIPTION:Veterans Day Game - All veterans get 20% off their tickets at the gate day of game. The team will also be wearing limited edition jerseys sponsored by Scheels that will be auctioned off raising money for the University of Montana Military and Veteran Services. You can bid on your limited edition…\nhttps://grizhub.umt.edu/engage/event/12511992
-URL:https://grizhub.umt.edu/engage/event/12511992
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Griz Hockey vs. Boise State (Veterans Day Game)
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f41f7eff66b4@wenatchee-activities
-DTSTAMP:20261113T185116Z
-DTSTART:20261114T023000Z
-DTEND:20261114T033000Z
-SUMMARY:Symphonic Wind Ensemble and Popular Music Ensemble
-LOCATION:Dennison Theatre and ALI Auditorium\, UM Campus
-DESCRIPTION:The UM Symphonic Wind Ensemble (SWE) is joined by the Popular Music Ensemble (PME) in a two-stage concert that moves from the Dennison Theatre across the sidewalk to the Ali Auditorium. The first half features the Symphonic Wind Ensemble with guest composer\, Carol Brittin Chambers and trumpet…\nhttps://grizhub.umt.edu/engage/event/12928932
-URL:https://grizhub.umt.edu/engage/event/12928932
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Symphonic Wind Ensemble and Popular Music Ensemble
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:db75d2aa98fa@wenatchee-activities
-DTSTAMP:20261113T185116Z
-DTSTART:20261114T030000Z
-DTEND:20261114T050000Z
-SUMMARY:The Last Revel @ The Wilma
-LOCATION:The Wilma\, Downtown Missoula
-DESCRIPTION:The Last Revel and Abby Webster at The Wilma at 2026-11-13T20:00:00-0700\nhttp://www.songkick.com/concerts/43343591-last-revel-at-wilma?utm_medium=organic&utm_source=microformat
-URL:http://www.songkick.com/concerts/43343591-last-revel-at-wilma?utm_medium=organic&utm_source=microformat
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: The Last Revel @ The Wilma
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6a0255b5a98b@wenatchee-activities
-DTSTAMP:20261113T185116Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Griz football vs. Idaho State 11/14
-LOCATION:Washington–Grizzly Stadium\, Missoula
-DESCRIPTION:4 tickets to the FCS game of the week. Clash of two Top 25 teams\, with playoff implications. University of Montana vs Idaho State. South End zone. Sec 112\, Row 16\, seats 4-7. $75 each obo. Digital tickets.\nhttps://allevents.in/missoula/griz-football-vs-idaho-state-11-14/200031028057607
-URL:https://allevents.in/missoula/griz-football-vs-idaho-state-11-14/200031028057607
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Griz football vs. Idaho State 11/14
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:c489baeb25f8@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
 SUMMARY:Idaho State Bengals at Montana Grizzlies Football at Washington-Grizzly Stadium
 LOCATION:Washington-Grizzly Stadium\, UM Campus
-DESCRIPTION:📍 Venue: Washington-Grizzly Stadium 🏠 Address: 32 Campus Dr\, Missoula\, MT 59812 🌆 City: Missoula 📍 Location: 46.8606\, -113.982✨ Experience the magic of Idaho State Bengals at Montana Grizzlies Football\, where moments become memories that\nhttps://allevents.in/missoula/idaho-state-bengals-at-montana-grizzlies-football-at-washington-grizzly-stadium/2400029253745415
+DESCRIPTION:https://allevents.in/missoula/idaho-state-bengals-at-montana-grizzlies-football-at-washington-grizzly-stadium/2400029253745415
 URL:https://allevents.in/missoula/idaho-state-bengals-at-montana-grizzlies-football-at-washington-grizzly-stadium/2400029253745415
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -126,23 +36,8 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fd60a681b6f1@wenatchee-activities
-DTSTAMP:20261113T185116Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Montana Grizzlies Football vs. Idaho State Bengals Football
-LOCATION:Washington-Grizzly Stadium\, UM Campus
-DESCRIPTION:Nearby AttractionsUniversity of Montana Football has 3 upcoming events.Idaho State University Bengals Football has 3 upcoming events.\nhttps://allevents.in/missoula/montana-grizzlies-football-vs-idaho-state-bengals-football/210001110293870
-URL:https://allevents.in/missoula/montana-grizzlies-football-vs-idaho-state-bengals-football/210001110293870
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Get tickets: Montana Grizzlies Football vs. Idaho State Bengals Football
-TRIGGER:-P21D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:e3e9502de337@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261115T020000Z
 DTEND:20261115T033000Z
 SUMMARY:Game Day Food Drive for Can the Cats!
@@ -157,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e1aed250bee4@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
 SUMMARY:Railroad Earth @ The Wilma
@@ -172,7 +67,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ffdae71d52c8@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261115T033000Z
 DTEND:20261115T063000Z
 SUMMARY:Can the Cats at the Idaho State Football Game
@@ -187,12 +82,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a8847cb8a549@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261115T033000Z
 DTEND:20261115T063000Z
 SUMMARY:University of Montana Football vs Idaho State - Senior Day
 LOCATION:Missoula\, UM Campus
-DESCRIPTION:University of Montana Football vs Idaho State - Senior Day TV: ESPN 2 Radio: Grizzly Sports Radio Network Streaming Video: https://www.espn.com/ Streaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1039/content/umt:allaccess-Live-1149 Tickets:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6484&amp\;sport_id=1
+DESCRIPTION:University of Montana Football vs Idaho State - Senior Day TV: ESPN 2 Radio: Grizzly Sports Radio Network Streaming Video: https://www.espn.com/watch/player/_/id/e331c996-72ae-4dc2-9f6c-a4fd413ef1f5 Streaming Audio:…\nhttps://admin.gogriz.com/calendar.aspx?game_id=6484&amp\;sport_id=1
 URL:https://admin.gogriz.com/calendar.aspx?game_id=6484&amp;sport_id=1
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -202,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7ee97e5eb6@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:MISSOULA\, MT @ Big Sky Brewing ♦ STAND-UP comedy ♦ SUNDAY ♦ 15 November @ 7pm (local time)
@@ -217,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f6d7f7166b2a@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261117T020000Z
 DTEND:20261117T033000Z
 SUMMARY:Can the Cats with Griz Volleyball - Nov 16! 🏐
@@ -232,7 +127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9851913dff2d@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261117T020000Z
 DTEND:20261117T040000Z
 SUMMARY:University of Montana Volleyball vs Northern Colorado
@@ -246,8 +141,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:486b15d84898@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:In the Company of Wolves\, An American Journey
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/in-the-company-of-wolves-an-american-journey/200030912928754
+URL:https://allevents.in/missoula/in-the-company-of-wolves-an-american-journey/200030912928754
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: In the Company of Wolves\, An American Journey
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:90921992e1ed@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261120T020000Z
 DTEND:20261120T040000Z
 SUMMARY:Theatre Night w/the DHC
@@ -262,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8e99f332ad99@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Funksgiving 12 at Wilma Theatre Missoula
@@ -277,7 +187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:94362653b2cc@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Funksgiving 12 ft. Special Guest Revel Day w/ Desperate Electric
@@ -292,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fca578693fb2@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261121T023000Z
 DTEND:20261121T050000Z
 SUMMARY:Griz Hockey vs. Montana Tech (Colin Snodgrass Scholarship Game)
@@ -307,7 +217,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:abf9e9a389d3@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261122T030000Z
 DTEND:20261122T050000Z
 SUMMARY:The Brothers Comatose @ The Wilma
@@ -322,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f53a33aac6f6@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Montana State-Northern Skylights at Montana Lady Grizzlies Womens Basketball
@@ -337,7 +247,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c32a63cbb59c@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 SUMMARY:University of Montana Women's Basketball vs MSU Northern
@@ -352,13 +262,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:439ac1b428ee@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:The Nutcracker: Magical Christmas Ballet
 LOCATION:Dennison Theatre\, UM Campus
-DESCRIPTION:https://happeningnext.com/event/the-nutcracker-magical-christmas-ballet-eid13twlepin6f
-URL:https://happeningnext.com/event/the-nutcracker-magical-christmas-ballet-eid13twlepin6f
+DESCRIPTION:https://allevents.in/missoula/the-nutcracker-magical-christmas-ballet/2300030613937111
+URL:https://allevents.in/missoula/the-nutcracker-magical-christmas-ballet/2300030613937111
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Get tickets: The Nutcracker: Magical Christmas Ballet
@@ -367,7 +277,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:df7cd3edac47@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261124T020000Z
 DTEND:20261124T040000Z
 SUMMARY:University of Montana Men's Basketball vs Carroll College
@@ -382,7 +292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b30d3452ac15@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261125T020000Z
 DTEND:20261125T040000Z
 SUMMARY:University of Montana Women's Basketball vs Carroll
@@ -397,7 +307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b5431c2612ca@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Clark Fork Coalition Holiday Party at The Wilma - Missoula\, MT
@@ -412,7 +322,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c59c38762f87@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261204T020000Z
 DTEND:20261204T040000Z
 SUMMARY:University of Montana Women's Basketball vs Northern Arizona
@@ -427,7 +337,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:92519df02eb0@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261206
 SUMMARY:Little Red Truck's European Christmas Market Friday 4-8 and Saturday 10-4
@@ -442,7 +352,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:609bade40bea@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
 SUMMARY:Kip Moore @ The Wilma
@@ -456,8 +366,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:7aa977cdbd2d@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Holiday Swing at The Wilma - Missoula\, MT
+LOCATION:131 Higgins Ave\, Missoula\, MT\, United States\, Montana 59802\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/holiday-swing-at-the-wilma-missoula-mt/200030903037715
+URL:https://allevents.in/missoula/holiday-swing-at-the-wilma-missoula-mt/200030903037715
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Holiday Swing at The Wilma - Missoula\, MT
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:c87e856b9d97@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261209T020000Z
 DTEND:20261209T040000Z
 SUMMARY:University of Montana Men's Basketball vs South Dakota
@@ -472,13 +397,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ae899f69c887@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Backcountry Film Festival ❄️
 LOCATION:The Wilma\, Downtown Missoula
-DESCRIPTION:https://happeningnext.com/event/backcountry-film-festival-eid3a0eaec80c
-URL:https://happeningnext.com/event/backcountry-film-festival-eid3a0eaec80c
+DESCRIPTION:https://allevents.in/missoula/backcountry-film-festival/200031018154028
+URL:https://allevents.in/missoula/backcountry-film-festival/200031018154028
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Get tickets: Backcountry Film Festival ❄️
@@ -487,7 +412,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e5db3aba43f7@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Becky Robinson's Holiday Spectacular at Wilma Theatre Missoula
@@ -501,8 +426,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:d9f64b0a2315@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261212
+SUMMARY:Blood Orchid Cold Day In Hell Tour
+LOCATION:Monk's Bar\, Downtown Missoula
+DESCRIPTION:$12.57 \nhttps://allevents.in/missoula/blood-orchid-cold-day-in-hell-tour/100002003160170995
+URL:https://allevents.in/missoula/blood-orchid-cold-day-in-hell-tour/100002003160170995
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Blood Orchid Cold Day In Hell Tour
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:565efd718bde@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
 SUMMARY:Becky Robinson @ The Wilma
@@ -516,8 +456,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:aca8ed72017c@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART:20261212T023000Z
+DTEND:20261212T043000Z
+SUMMARY:Buffalo Traffic Jam @ The Wilma
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:Buffalo Traffic Jam at The Wilma at 2026-12-11T19:30:00-0700\nhttp://www.songkick.com/concerts/43209304-buffalo-traffic-jam-at-wilma?utm_medium=organic&utm_source=microformat
+URL:http://www.songkick.com/concerts/43209304-buffalo-traffic-jam-at-wilma?utm_medium=organic&utm_source=microformat
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Buffalo Traffic Jam @ The Wilma
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:92d1e1dac2cc@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Dave Simonett
@@ -532,7 +487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:23601461b8bc@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261212T180000Z
 DTEND:20261212T190000Z
 SUMMARY:Teddy Bear Tea Party 1
@@ -547,7 +502,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fa5c453d0a42@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261212T193000Z
 DTEND:20261212T203000Z
 SUMMARY:Teddy Bear Tea Party 2
@@ -562,7 +517,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a3314c02f483@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261212T210000Z
 DTEND:20261212T220000Z
 SUMMARY:Teddy Bear Tea Party 3
@@ -576,8 +531,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:924b1ccc2dee@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Banff Mountain Film Festival World Tour
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/banff-mountain-film-festival-world-tour/200030905831027
+URL:https://allevents.in/missoula/banff-mountain-film-festival-world-tour/200030905831027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Banff Mountain Film Festival World Tour
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:f2ab9e4dde2c@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Missoula Holiday MADE fair
@@ -592,7 +562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8044d4a33109@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261213T180000Z
 DTEND:20261213T190000Z
 SUMMARY:Teddy Bear Tea Party 4
@@ -607,7 +577,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:208e78edfba8@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261213T193000Z
 DTEND:20261213T203000Z
 SUMMARY:Teddy Bear Tea Party 5
@@ -622,7 +592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f1c04d2eb234@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261213T210000Z
 DTEND:20261213T220000Z
 SUMMARY:Teddy Bear Tea Party 6
@@ -636,8 +606,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:62b98db783fe@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:That 1 Guy at Top Hat - Missoula\, MT
+LOCATION:The Top Hat\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/that-1-guy-at-top-hat-missoula-mt/200030958056958
+URL:https://allevents.in/missoula/that-1-guy-at-top-hat-missoula-mt/200030958056958
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: That 1 Guy at Top Hat - Missoula\, MT
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:aeb700e070d5@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261219T020000Z
 DTEND:20261219T040000Z
 SUMMARY:University of Montana Men's Basketball vs Pepperdine
@@ -652,7 +637,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1a74fe1213ef@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261219T210000Z
 DTEND:20261219T230000Z
 SUMMARY:University of Montana Women's Basketball vs South Dakota
@@ -667,7 +652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d1a9b4018ddd@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261222T020000Z
 DTEND:20261222T040000Z
 SUMMARY:University of Montana Men's Basketball vs Providence (Mont.)
@@ -682,7 +667,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eb473f8c8675@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20270207
 SUMMARY:Candlelight: Queen vs. ABBA
@@ -697,7 +682,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:96e65b80934b@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20261231T230000Z
 DTEND:20270101T010000Z
 SUMMARY:University of Montana Men's Basketball vs Northern Colorado
@@ -712,7 +697,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e1a1f2883de5@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270102T210000Z
 DTEND:20270102T230000Z
 SUMMARY:University of Montana Men's Basketball vs Portland State
@@ -727,7 +712,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:059b7efdf38c@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270108T020000Z
 DTEND:20270108T040000Z
 SUMMARY:University of Montana Women's Basketball vs Weber State
@@ -742,7 +727,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6ef303e39dee@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270109T210000Z
 DTEND:20270109T230000Z
 SUMMARY:University of Montana Women's Basketball vs Idaho State
@@ -757,7 +742,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e75e486753b3@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270115T020000Z
 DTEND:20270115T040000Z
 SUMMARY:University of Montana Men's Basketball vs Idaho
@@ -772,7 +757,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:88ea8b12602c@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270116T230000Z
 DTEND:20270117T010000Z
 SUMMARY:University of Montana Men's Basketball vs Eastern Washington - N7 Game
@@ -787,7 +772,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8ba62424dc16@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270118T210000Z
 DTEND:20270118T230000Z
 SUMMARY:University of Montana Women's Basketball vs Utah Tech
@@ -802,7 +787,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c2a29555c564@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270126T020000Z
 DTEND:20270126T040000Z
 SUMMARY:University of Montana Men's Basketball vs Southern Utah
@@ -816,8 +801,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:55127cadbfc5@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Fly Fishing Film Tour 2027 - Missoula\, MT
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/fly-fishing-film-tour-2027-missoula-mt/200031047885145
+URL:https://allevents.in/missoula/fly-fishing-film-tour-2027-missoula-mt/200031047885145
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Fly Fishing Film Tour 2027 - Missoula\, MT
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:888a1b1cbab0@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:The Maye Masquerade Ball
@@ -832,7 +832,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:28b1c67cb9fd@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270130T230000Z
 DTEND:20270131T010000Z
 SUMMARY:University of Montana Men's Basketball vs Northern Arizona
@@ -847,7 +847,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a2d927526611@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270205T020000Z
 DTEND:20270205T040000Z
 SUMMARY:University of Montana Women's Basketball vs Portland State
@@ -861,8 +861,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:137c56747113@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Big Richard
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/big-richard/210005106156898
+URL:https://allevents.in/missoula/big-richard/210005106156898
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Big Richard
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:8c3fa7b6b344@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270206T210000Z
 DTEND:20270206T230000Z
 SUMMARY:University of Montana Women's Basketball vs Northern Colorado
@@ -877,7 +892,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:161d8df01522@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270212T020000Z
 DTEND:20270212T040000Z
 SUMMARY:University of Montana Women's Basketball vs Eastern Washington
@@ -892,7 +907,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d5d061862482@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270213T210000Z
 DTEND:20270213T230000Z
 SUMMARY:University of Montana Women's Basketball vs Idaho
@@ -907,7 +922,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:82810071154a@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270219T020000Z
 DTEND:20270219T040000Z
 SUMMARY:University of Montana Men's Basketball vs Idaho State
@@ -921,8 +936,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:29b763ca308f@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270221
+SUMMARY:Moontricks
+LOCATION:Top Hat\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/moontricks/210007169754195
+URL:https://allevents.in/missoula/moontricks/210007169754195
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Moontricks
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:92c846224e5e@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270220T230000Z
 DTEND:20270221T010000Z
 SUMMARY:University of Montana Men's Basketball vs Weber State
@@ -937,7 +967,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a865de906e09@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270223T020000Z
 DTEND:20270223T040000Z
 SUMMARY:University of Montana Men's Basketball vs Utah Tech
@@ -952,7 +982,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c87c0782538f@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270227T140000Z
 DTEND:20270227T160000Z
 SUMMARY:University of Montana Men's Basketball vs Montana State
@@ -967,7 +997,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:efd198c94d1c@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270227T210000Z
 DTEND:20270227T230000Z
 SUMMARY:University of Montana Women's Basketball vs Montana State
@@ -982,7 +1012,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6f6d3c0182a7@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART:20270302T020000Z
 DTEND:20270302T040000Z
 SUMMARY:University of Montana Women's Basketball vs Southern Utah
@@ -996,8 +1026,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:8032edb06c46@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Beast Feast
+LOCATION:Rocky Mountain Elk Foundation\, Missoula
+DESCRIPTION:$17.85 \nhttps://allevents.in/missoula/beast-feast/100001990417088091
+URL:https://allevents.in/missoula/beast-feast/100001990417088091
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Beast Feast
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:6ecc6376f142@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270308
 SUMMARY:FREE Missoula Home & Remodeling Show\, March 2027
@@ -1011,8 +1056,38 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:af8d4010770e@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Pinky And The Floyd
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/pinky-and-the-floyd/210001774022007
+URL:https://allevents.in/missoula/pinky-and-the-floyd/210001774022007
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Pinky And The Floyd
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3912d3fbb5ed@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Liquid Stranger Presents: Electric Helix
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/liquid-stranger-presents-electric-helix/210001105228483
+URL:https://allevents.in/missoula/liquid-stranger-presents-electric-helix/210001105228483
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Liquid Stranger Presents: Electric Helix
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:343d3d559158@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Tom Papa at Wilma Theatre Missoula
@@ -1026,8 +1101,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:5e5dc2a66958@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Alaska Thunderf*ck: The Revolution Tour
+LOCATION:The Wilma\, Downtown Missoula
+DESCRIPTION:https://allevents.in/missoula/alaska-thunderfck-the-revolution-tour/210001514569787
+URL:https://allevents.in/missoula/alaska-thunderfck-the-revolution-tour/210001514569787
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Alaska Thunderf*ck: The Revolution Tour
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:8b787ce0a757@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:Remi Wolf at KettleHouse Amphitheater
@@ -1042,7 +1132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:284c84c7f50e@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 SUMMARY:Leon Bridges Tickets
@@ -1057,7 +1147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:28ee045a5e0f@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:University of Montana Football vs Lehigh
@@ -1071,8 +1161,23 @@ TRIGGER:-P21D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:014508f9d732@wenatchee-activities
+DTSTAMP:20261114T175605Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270913
+SUMMARY:Connected Hearts: Horses\, Companion Animals & Nature Conference & Film Fest
+LOCATION:Roxy Theter\, Downtown Missoula
+DESCRIPTION:$28.52 \nhttps://allevents.in/missoula/connected-hearts-horses-companion-animals-and-nature-conference-and-film-fest/100001990914899057
+URL:https://allevents.in/missoula/connected-hearts-horses-companion-animals-and-nature-conference-and-film-fest/100001990914899057
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get tickets: Connected Hearts: Horses\, Companion Animals & Nature Conference & Film Fest
+TRIGGER:-P21D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:546b73fd0132@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
 SUMMARY:University of Montana Football vs Central Washington
@@ -1087,7 +1192,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7c0cd35ef82e@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 SUMMARY:University of Montana Football vs West Florida
@@ -1102,7 +1207,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:850504de40c7@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:University of Montana Football vs Cal Poly - Homecoming
@@ -1117,7 +1222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0018ccf4cf73@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
 SUMMARY:University of Montana Football vs Eastern Washington
@@ -1132,7 +1237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:af26b7549fe6@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20271106
 DTEND;VALUE=DATE:20271107
 SUMMARY:University of Montana Football vs Northern Arizona
@@ -1147,7 +1252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ccf76797a615@wenatchee-activities
-DTSTAMP:20261113T185116Z
+DTSTAMP:20261114T175605Z
 DTSTART;VALUE=DATE:20271120
 DTEND;VALUE=DATE:20271121
 SUMMARY:University of Montana Football vs Montana State
