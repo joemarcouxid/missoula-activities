@@ -35,6 +35,18 @@
    "enabled": false
   },
   {
+   "id": "meetup",
+   "name": "Meetup groups",
+   "aggregator": true,
+   "site": "https://www.meetup.com/find/?location=us--mt--Missoula&source=EVENTS",
+   "strategies": [
+    [
+     "jsonld",
+     "https://www.meetup.com/find/?location=us--mt--Missoula&source=EVENTS"
+    ]
+   ]
+  },
+  {
    "id": "griz-athletics",
    "name": "Montana Grizzlies athletics",
    "town": "UM Campus",
@@ -181,7 +193,17 @@
      "https://allevents.in/bonner",
      "https://allevents.in/lolo",
      "https://allevents.in/stevensville",
-     "https://allevents.in/frenchtown"
+     "https://allevents.in/frenchtown",
+     "https://allevents.in/missoula/all?page=2",
+     "https://allevents.in/missoula/all?page=3",
+     "https://allevents.in/missoula/all?page=4",
+     "https://allevents.in/missoula/food-drinks",
+     "https://allevents.in/missoula/music",
+     "https://allevents.in/missoula/kids",
+     "https://allevents.in/missoula/arts",
+     "https://allevents.in/missoula/sports",
+     "https://allevents.in/missoula/festivals",
+     "https://allevents.in/missoula/workshops"
     ]
    ]
   },
